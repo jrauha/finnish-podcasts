@@ -1,38 +1,18 @@
 [
     {
-        "title": "#futucast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:314264009/sounds.rss",
-        "iTunesUrl": null
+        "title": "0-100 [nolla viiva sata]",
+        "feedUrl": "https://www.nollaviivasata.fi/feed.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/0-100-nolla-viiva-sata/id1491646390"
     },
     {
-        "title": "#Porvoopodi",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:406904712/sounds.rss",
-        "iTunesUrl": null
+        "title": "007 Travelers",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:850508107/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "#rahapodi",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:156278369/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/rahapodi/id1039270351?l=fi&mt=2"
-    },
-    {
-        "title": "#Teerenpelit",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:348855806/sounds.rss",
-        "iTunesUrl": null
-    },
-    {
-        "title": "#vapaaehtoinen100",
-        "feedUrl": "http://cms.podcastit.me/podcast/vapaaehtoinen100/feed/",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/vapaaehtoinen100/id1321970332?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D173"
-    },
-    {
-        "title": "#Yrittäjyys360",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:391128240/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/yritt%C3%A4jyys360/id1343094941?mt=2&i=1000401204583"
-    },
-    {
-        "title": "#Älyradio – Salesforce podcast",
-        "feedUrl": "http://alyradio.podbean.com/feed/",
-        "iTunesUrl": null
+        "title": "10 myyttiä yhteiskunnasta",
+        "feedUrl": "https://www.spreaker.com/show/4401082/episodes/feed",
+        "iTunesUrl": ""
     },
     {
         "title": "12 diktaattoria",
@@ -40,44 +20,109 @@
         "iTunesUrl": "https://itunes.apple.com/us/podcast/12-diktaattoria/id1200715561?mt=2"
     },
     {
-        "title": "@mhonkasalo NBA Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:37300831/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/mhonkasalo-nba-podcast/id1063033193?l=fi&mt=2"
+        "title": "23 minuuttia",
+        "feedUrl": "https://anchor.fm/s/210e24fc/podcast/rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "@PanuMusakka",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:223934269/sounds.rss",
-        "iTunesUrl": null
+        "title": "75%",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO4905062188",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "85-95",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:247942982/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "A M A R A Y D A",
+        "feedUrl": "https://feeds.buzzsprout.com/1329205.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/amarayda/id1532357803?uo=4"
+    },
+    {
+        "title": "A/M Apunen Maliranta",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO5961330148",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/apunen-maliranta/id1487202327?mt=2&ls=1"
+    },
+    {
+        "title": "Aamukahvi Podcast",
+        "feedUrl": "https://feeds.buzzsprout.com/1403260.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/aamukahvi-podcast/id1535560418"
+    },
+    {
+        "title": "Aamukahvilla",
+        "feedUrl": "https://rss.acast.com/aamukahvilla",
+        "iTunesUrl": ""
     },
     {
         "title": "Aatoksia ohjelmistobisneksestä",
         "feedUrl": "https://feeds.buzzsprout.com/216615.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Aavetaajuus",
         "feedUrl": "http://aavetaajuus.fi/blog/kategoria/kaikki-podcastit/podcastit/feed/podcast/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Afrikka edellä",
+        "feedUrl": "https://cms.podcastit.me/podcast/tyomaana-maailma/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ty%C3%B6maana-maailma/id1397382020?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D441"
     },
     {
         "title": "Afterwork",
         "feedUrl": "https://rss.acast.com/afterwork",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
-        "title": "AHAA PODCAST",
-        "feedUrl": "http://ahaapodcast.podbean.com/feed/",
-        "iTunesUrl": null
+        "title": "AHAA Podcast",
+        "feedUrl": "https://ahaapodcast.podbean.com/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ahdistuneet Ihmisrauniot Podcast",
+        "feedUrl": "https://anchor.fm/s/e5c6ae4/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Aidot oudot podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:762762310/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Aitomuijat",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:621587079/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ajatuksia Autoista",
+        "feedUrl": "https://anchor.fm/s/1c2db308/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/ajatuksia-autoista/id1507360265"
     },
     {
         "title": "Ajatuksia kaupungista",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:433767183/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:433767183/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ajatuksia yhteiskunnasta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:445958403/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Ajatuspaja Libera",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:209250618/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:209250618/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/yleinen-tasapaino/id1093784285?l=fi&mt=2"
+    },
+    {
+        "title": "Akateeminen vartti",
+        "feedUrl": "https://feeds.soundcloud.com/playlists/soundcloud:playlists:610257525/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Aki Linnanahde Talk Show",
+        "feedUrl": "https://anchor.fm/s/1ef253a0/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Akonniemen avara luonto",
@@ -91,8 +136,8 @@
     },
     {
         "title": "Alivakuutussihteeri",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:397085319/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:397085319/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Alivaltiosihteeri",
@@ -102,32 +147,52 @@
     {
         "title": "All Points North",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4355773.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Alustatalouden faktat ja myytit",
+        "feedUrl": "https://www.spreaker.com/show/4835913/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/alustatalouden-faktat-ja-myytit/id1558854840?uo=4"
     },
     {
         "title": "Amerikka",
-        "feedUrl": "http://jakso.fi/podcastit/amerikka/feed",
+        "feedUrl": "https://jakso.fi/podcastit/amerikka/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/amerikka/id1176162003?mt=2&at=1000lwWI"
     },
     {
-        "title": "Anton & Joonas",
-        "feedUrl": "http://jakso.fi/podcastit/anton-joonas/feed",
+        "title": "Ammattipuhuja",
+        "feedUrl": "https://anchor.fm/s/36806994/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/ammattipuhuja/id1533720612"
+    },
+    {
+        "title": "Anton &amp; Joonas",
+        "feedUrl": "https://jakso.fi/podcastit/anton-joonas/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/anton-joonas/id1147116950&at=1000lwWI"
     },
     {
-        "title": "AntroBlogi",
-        "feedUrl": "http://www.antroblogi.fi/feed/",
-        "iTunesUrl": null
+        "title": "RSS",
+        "feedUrl": "",
+        "iTunesUrl": "/selitys#tilausohje"
     },
     {
-        "title": "Apunen/Maliranta",
-        "feedUrl": "http://www.eva.fi/podcast/feed/",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/apunen/id1179510347?mt=2"
+        "title": "Antti X Antti - Kaksinkertainen katsaus popmusiikkiin",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:381124178/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Apinalaatikko",
+        "feedUrl": "https://feeds.simplecast.com/uHHmDQxX",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/apinalaatikko/id1537985952?uo=4"
+    },
+    {
+        "title": "Apologia.fi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:850326361/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Areiopagi podcast",
         "feedUrl": "http://www.areiopagi.fi/feed/podcast/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Aristoteleen kantapää",
@@ -135,24 +200,34 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/aristoteleen-kantapaa/id419832083?mt=2&uo=4&at=10l4Yx&app=itunes"
     },
     {
-        "title": "Arter Oy - Laatulöpinät",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:335801704/sounds.rss",
-        "iTunesUrl": null
+        "title": "Arjen Sankarit",
+        "feedUrl": "https://rss.simplecast.com/podcasts/7704/rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Arvosanoja",
-        "feedUrl": "http://netprofile.podbean.com/feed/",
-        "iTunesUrl": null
+        "title": "Arkadian rappusilla -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:575936847/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/arkadian-rappusilla-podcast/id1450529746"
     },
     {
-        "title": "Arvostelutoimisto Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:17509393/sounds.rss",
-        "iTunesUrl": null
+        "title": "Arter Podcast - Oivaltavia kuunteluhetkiä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:335801704/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Artpod",
+        "feedUrl": "https://jakso.fi/podcastit/artpod/feed",
+        "iTunesUrl": ""
     },
     {
         "title": "Askelpalautin",
         "feedUrl": "https://askelpalautin.fi/category/podcast/feed/",
-        "iTunesUrl": null
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/askelpalautin/id1441467718?mt=2"
+    },
+    {
+        "title": "aTalent Recruiting",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:543075546/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/atalent-recruiting/id1481822226"
     },
     {
         "title": "ATK-hetki",
@@ -161,33 +236,58 @@
     },
     {
         "title": "Atk-radio",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:297290380/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:297290380/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Auta Antti!",
+        "feedUrl": "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=auta-antti",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Autistiikkaa",
+        "feedUrl": "https://anchor.fm/s/2f544a50/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Avara mieli",
+        "feedUrl": "https://anchor.fm/s/143d2958/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/avara-mieli/id1501205090"
     },
     {
         "title": "Avaruuskahvit",
-        "feedUrl": "http://feeds.feedburner.com/avaruuskahvit",
+        "feedUrl": "https://feeds.feedburner.com/avaruuskahvit",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/avaruuskahvit/id1228315917"
     },
     {
-        "title": "Avokatsomon podcastit – Avokaudio",
-        "feedUrl": "http://avokatsomo.com/aiheet/avokaudio/feed/",
-        "iTunesUrl": null
+        "title": "Avoin päivä",
+        "feedUrl": "https://anchor.fm/s/2ed057cc/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/avoin-p%C3%A4iv%C3%A4/id1525932626?l=fi"
     },
     {
         "title": "Avokonttori",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:504685413/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:504685413/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Backlund&Lange Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:337728002/sounds.rss",
-        "iTunesUrl": null
+        "title": "Backlund&amp;Lange Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:337728002/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Bioetiikan instituutti",
-        "feedUrl": "http://www.bioetiikka.fi/?feed=rss2&tag=podcast",
-        "iTunesUrl": null
+        "title": "BackPodcast",
+        "feedUrl": "https://anchor.fm/s/7f4fe50/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Batroom -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:498386367/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "RSS",
+        "feedUrl": "",
+        "iTunesUrl": "/selitys#tilausohje"
     },
     {
         "title": "Biohakkerin podcast",
@@ -196,13 +296,23 @@
     },
     {
         "title": "Bisnespöytä - podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:389358276/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:389358276/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Black Box of Content Marketing",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:308990540/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:308990540/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/black-box-of-content-marketing/id1240808037?mt=2"
+    },
+    {
+        "title": "Bo Living -podcast",
+        "feedUrl": "https://www.spreaker.com/show/4357295/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Bondaillaan",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:819802738/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Boss Level Podcast",
@@ -210,29 +320,64 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/boss-level/id1041885043"
     },
     {
+        "title": "brainstorming",
+        "feedUrl": "https://anchor.fm/s/3296ede4/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/brainstorming/id1531328546"
+    },
+    {
+        "title": "Bros on the Go",
+        "feedUrl": "https://anchor.fm/s/b538878/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Brysselin kone",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-1517763.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/brysselin-kone/id616687424?l=fi&mt=2"
+    },
+    {
+        "title": "Bull Shit Podcast",
+        "feedUrl": "https://anchor.fm/s/ef7e4d8/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Cafe au lait - Kahvihetkiä maaimalla",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:267382178/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:267382178/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Cafe Lanzarote",
-        "feedUrl": "http://rss.acast.com/cafelanzarote",
+        "feedUrl": "https://rss.acast.com/cafelanzarote",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/cafe-lanzarote/id1074074609?mt=2"
     },
     {
-        "title": "Cocomms",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:208447242/sounds.rss",
-        "iTunesUrl": null
+        "title": "Canon Talks",
+        "feedUrl": "https://ctalks.podbean.com/feed.xml",
+        "iTunesUrl": "https://itunes.apple.com/gb/podcast/canon-talks/id1436018906?mt=2"
     },
     {
-        "title": "CoConainen",
-        "feedUrl": "http://rss.acast.com/coconainen",
-        "iTunesUrl": null
+        "title": "Cappuzine",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:402980115/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Cocomms",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:208447242/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Colorado 1973",
+        "feedUrl": "http://funpastimes.com/Colorado1973/feed/podcast/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "DadPodi - Miesten vuoro puhua vanhemmuudesta",
+        "feedUrl": "https://feeds.simplecast.com/Gws5rYMP",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/dadpodi-miesten-vuoro-puhua-vanhemmuudesta/id1541519099?uo=4"
     },
     {
         "title": "Del Gorro del Mundo",
-        "feedUrl": "http://feeds.feedburner.com/DelGorroDelMundo",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.feedburner.com/DelGorroDelMundo",
+        "iTunesUrl": ""
     },
     {
         "title": "Deloitte Hear'n Go",
@@ -240,29 +385,34 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/deloitte-hearn-go/id1437608943?mt=2"
     },
     {
-        "title": "Designtarinoita",
-        "feedUrl": "http://rss.acast.com/designtarinoita",
-        "iTunesUrl": null
+        "title": "Digi ekaksi",
+        "feedUrl": "https://cms.podcastit.me/podcast/digi-ekaksi/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "DigiErkon iltakoulu",
+        "feedUrl": "https://anchor.fm/s/3f91087c/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "dinglecast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:158524868/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:158524868/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/dinglecast/id1013777796?mt=2"
     },
     {
-        "title": "DJ Orion's podcast",
-        "feedUrl": "http://feeds.feedburner.com/Orionpodcast",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/dj-orions-podcast/id129522914?mt=2"
+        "title": "DNA Business - Uuden työn ääniä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:206824770/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "DNA Business - Uuden työn ääniä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:206824770/sounds.rss",
-        "iTunesUrl": null
+        "title": "DocEmilia",
+        "feedUrl": "https://rss.acast.com/emiliajaarjenkemiaa",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/emilia-ja-arjen-kemiaa/id1330906536?mt=2"
     },
     {
         "title": "DorkaCast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:79574403/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:79574403/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "eeddcast",
@@ -270,9 +420,9 @@
         "iTunesUrl": "https://itunes.apple.com/us/podcast/eeddcast/id1403815762?mt=2"
     },
     {
-        "title": "Ei Me Tiedetä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:87993628/sounds.rss",
-        "iTunesUrl": null
+        "title": "Ei saa peittää",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:489909960/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Elinkeinoelämän ääni",
@@ -280,24 +430,59 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/elinkeinoel%C3%A4m%C3%A4n-%C3%A4%C3%A4ni/id1375906696?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D602"
     },
     {
-        "title": "Emilia ja arjen kemiaa",
-        "feedUrl": "https://rss.acast.com/emiliajaarjenkemiaa",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/emilia-ja-arjen-kemiaa/id1330906536?mt=2"
+        "title": "Eläinoikeuspodcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:354387788/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Eläkekomitea",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO6088614990",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Elämän keskellä -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:809997952/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "#eläse",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO5117996445",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Energiahoitajan arkea",
+        "feedUrl": "https://feeds.buzzsprout.com/1705213.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Ennakointikupla",
         "feedUrl": "http://ennakointikupla.fi/feed/podcast/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Ennen Maailmanloppua -podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:284728691/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:284728691/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Episodi Tuomiolla",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:134463572/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/episodi-tuomiolla/id978696292?l=fi&mt=2"
+        "title": "Ensihoidon ja PelastustyönCast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:639490206/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Enskan potkasti",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:272523721/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Entä jos...?",
+        "feedUrl": "https://feeds.blubrry.com/feeds/aaltouniversitywhatif.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/ent%C3%A4-jos/id1452843949"
+    },
+    {
+        "title": "EPISENTRUMI",
+        "feedUrl": "https://podcast.rss.com/episentrumi/feed.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/episentrumi/id1489719800"
     },
     {
         "title": "Erehdysekspertti",
@@ -306,158 +491,423 @@
     },
     {
         "title": "Erityisvanhemman korjaussarja -podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:402480456/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://anchor.fm/s/7ac0128/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Eron silmässä",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e9ffaaf1e74063a73217c6c",
+        "iTunesUrl": ""
     },
     {
         "title": "ERÄLOKI PODCAST",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:376301966/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:376301966/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Esa Saarinen: Filosofia ja systeemiajattelu",
+        "feedUrl": "https://feeds.blubrry.com/feeds/esasaarinen.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Espoon kaupunki",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:587888193/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Esports+",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:317498994/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:317498994/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/esports/id1256386662?mt=2"
     },
     {
         "title": "Esseekelaa",
-        "feedUrl": "http://jakso.fi/podcastit/esseekelaa/feed",
-        "iTunesUrl": null
+        "feedUrl": "https://jakso.fi/podcastit/esseekelaa/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Eurolla enemmän",
+        "feedUrl": "https://feeds.buzzsprout.com/1089062.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/eurolla-enemm%C3%A4n/id1515897533?l=fi"
+    },
+    {
+        "title": "Eurotohtori",
+        "feedUrl": "https://www.eva.fi/eurotohtori/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "EVA Virkku",
+        "feedUrl": "http://www.eva.fi/podcast/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/apunen/id1179510347?mt=2"
+    },
+    {
+        "title": "Explore Finland Radio Show",
+        "feedUrl": "https://feeds.feedburner.com/ExploreFinlandRadio",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/explore-finland-radio-show/id948019018"
+    },
+    {
+        "title": "Faijat juoksee",
+        "feedUrl": "https://anchor.fm/s/3cb0cea8/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/faijat-juoksee/id1537224484?l=fi"
+    },
+    {
+        "title": "Feikkiä vai faktaa -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:767503312/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Fida Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:483994983/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:483994983/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Fonto Radio",
-        "feedUrl": "http://fontoradio.fi/FontoRadio.xml",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/fonto-radio/id1069870364"
+        "title": "Fingo podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:581832939/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "FinHistoryCast",
+        "feedUrl": "https://anchor.fm/s/d880574/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Fitnesskulmapodcast",
+        "feedUrl": "https://feeds.acast.com/public/shows/5ee60583df4b7d5744ec5333",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "FiVe - filosofiset veljet",
+        "feedUrl": "https://anchor.fm/s/deec624/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Flow Akatemia",
+        "feedUrl": "https://feeds.transistor.fm/flow-akatemia",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/flow-akatemia/id1500173816"
     },
     {
         "title": "Formulacast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:279914436/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:279914436/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/formulacast/id1191849128?mt=2"
     },
     {
+        "title": "FPL Podcast Suomi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:329545349/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/fpl-podcast-suomi/id1491238188"
+    },
+    {
+        "title": "Front!",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO3158916668",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Frontend Friday",
-        "feedUrl": "http://feeds.feedburner.com/FrontendFriday",
+        "feedUrl": "https://feeds.feedburner.com/FrontendFriday",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/frontend-friday/id630470814?l=fi&mt=2"
     },
     {
-        "title": "Future Proof by Workday Designers",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:503530896/sounds.rss",
-        "iTunesUrl": null
+        "title": "Futucast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:314264009/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Geekki Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:258355594/sounds.rss",
-        "iTunesUrl": null
+        "title": "Futurebuilders",
+        "feedUrl": "https://futurebuilders.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Geekkicast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:258355594/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "GRL GANG",
+        "feedUrl": "https://rss.podplaystudio.com/848.xml",
+        "iTunesUrl": ""
     },
     {
         "title": "Grym+Jalkanen vs maailma",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:244075680/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:244075680/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Haapala&Sottinen Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:103688495/sounds.rss",
+        "title": "H-sana",
+        "feedUrl": "https://feeds.blubrry.com/feeds/hsana.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/h-sana/id1508198258?l=fi"
+    },
+    {
+        "title": "Haapala&amp;Sottinen Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:103688495/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/haapala-sottinen-podcast/id947824450?l=fi&mt=2"
     },
     {
+        "title": "Haastattelutoimisto",
+        "feedUrl": "https://anchor.fm/s/eab828c/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "hakaloylyt",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:186300468/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:186300468/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Hanna ja Joonas - Kermaperse & Komposti",
-        "feedUrl": "https://rss.acast.com/kermaperse",
-        "iTunesUrl": null
+        "title": "Halme &amp; Saarinen - Diginen iltapäivä",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4360535.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
     },
     {
-        "title": "Hanski & Jaska Show",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:220685187/sounds.rss",
-        "iTunesUrl": null
+        "title": "Hannu ja Veera",
+        "feedUrl": "https://anchor.fm/s/1e5af280/podcast/rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "HATSOLO PODCAST",
-        "feedUrl": "http://hatsolo.podbean.com/feed/",
-        "iTunesUrl": null
+        "title": "Hanski &amp; Jaska Show",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:220685187/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Helsinki Design Week Podcast",
-        "feedUrl": "http://hdwpodcast.libsyn.com/rss",
-        "iTunesUrl": "https://itunes.apple.com/us/podcast/id1274495051"
+        "title": "Harhaoppia",
+        "feedUrl": "https://anchor.fm/s/c4a7110/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Havuhattu podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:330223854/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "HEDARI",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:566552499/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "HEDARI",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:566552499/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hei näitkö tän?",
+        "feedUrl": "https://feeds.simplecast.com/r8_YtjLX",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Heijari Podcast",
+        "feedUrl": "https://feed.podbean.com/eerikheijari/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Heikelä ja Särre viihteellä",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4549012.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/heikel%C3%A4-ja-s%C3%A4rre-viihteell%C3%A4/id1437973242?l=fi&mt=2"
+    },
+    {
+        "title": "Heikkilä &amp; Vilén",
+        "feedUrl": "https://feeds.soundcloud.com/playlists/soundcloud:playlists:1195425997/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "HEL of a business!",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO5240141612",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "HEL-LO! Climate Calling",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO7321580650",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Helsingin seudun kauppakamarin podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:521596170/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Helsinki Podcast",
+        "feedUrl": "https://cms.podcastit.me/podcast/mieliala/feed/",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mieliala-helsinki-1939-1945/id1495771793?mt=2&ls=1"
+    },
+    {
+        "title": "Helsinki Podcast",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO7563602252",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hemohes",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:287822841/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hengitysharjoituksia",
+        "feedUrl": "https://feeds.redcircle.com/a462e915-4308-43e1-a59f-0e963d932363",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/hengitysharjoituksia/id1534270695"
     },
     {
         "title": "Henki ja elämä: Suhdetohtori H. Neitsytsaari ja parisuhteen ihmeelliset ilmiöt",
         "feedUrl": "http://henkijaelama.fi/feed/podcast/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Herrasmieshakkerit",
+        "feedUrl": "https://hakkerit.libsyn.com/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/herrasmieshakkerit/id1479000931"
+    },
+    {
+        "title": "HERÄÄ PODCAST",
+        "feedUrl": "https://anchor.fm/s/a0e522c/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "HessunKahvila",
-        "feedUrl": "http://feeds.feedburner.com/Hessunkahvila",
+        "feedUrl": "https://feeds.feedburner.com/Hessunkahvila",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/hessunkahvila-hessunkahvila/id130085879?l=fi&mt=2"
     },
     {
+        "title": "Hetkiä -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:735298837/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hevonen, Opettajani",
+        "feedUrl": "https://feeds.feedburner.com/HevonenOpettajani",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hevoset Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:304179472/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/hevoset-podcast/id1490322491?l=fi"
+    },
+    {
+        "title": "hevoskoulutus.fi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:795645049/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Hikipodcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:383717216/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:383717216/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hilla&amp;Inari",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:236810239/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Historian nurkkapöytä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:210474418/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:210474418/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Hiukkasviihdytin",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:453145734/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:453145734/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hollywoodin Rikosrekisteri",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e874acf0a1480e050929607",
+        "iTunesUrl": "https://podcasts.apple.com/se/podcast/hollywood-crimecast/id1506215784"
+    },
+    {
+        "title": "Holvi podcast",
+        "feedUrl": "https://rss.acast.com/holvipodcast",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Honcast",
+        "feedUrl": "https://honcast.podbean.com/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hotellimuusat",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50218441.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/hotellimuusat/id1476381317?l=fi"
+    },
+    {
+        "title": "Huipputyönantaja-podcast",
+        "feedUrl": "https://anchor.fm/s/7847360/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Huominen on huonompi",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50028948.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://itunes.apple.com/mt/podcast/huominen-on-huonompi/id1450375970?mt=2"
     },
     {
         "title": "Huorapuutarha",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:274307856/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:274307856/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "hypoteettinen podcast",
-        "feedUrl": "https://hypoteettinenpodcast.podiant.co/rss/",
-        "iTunesUrl": null
+        "title": "Hybrid Times",
+        "feedUrl": "https://10xfinland.libsyn.com/rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Hyvän sään aikana",
-        "feedUrl": "https://mondediplo.fi/podcast/hyvansaanaikana.xml",
-        "iTunesUrl": null
+        "title": "Hyvä kysymys",
+        "feedUrl": "https://cms.podcastit.me/podcast/hyva-kysymys/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hyvä Paha Isi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:724309843/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Hyvän välitystavan podcast",
+        "feedUrl": "https://www.spreaker.com/show/4739255/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/hyv%C3%A4n-v%C3%A4litystavan-podcast/id1548210559?uo=4"
     },
     {
         "title": "Hyvät ihmiset",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:302067905/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:302067905/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/id1315442508"
     },
     {
         "title": "Hyvää huomista",
         "feedUrl": "https://www.sitra.fi/artikkelityypit/podcast/feed/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Hölkkäuutiset",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:191481369/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:191481369/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "I don't like mondays",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:624045438/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "I säng med Ronja &amp; Taika",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4560186.rss?lang=sv&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "IBD ja muut suolistosairaudet ry - Suoli Suorana",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:591287316/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ihan Pihalla",
+        "feedUrl": "https://pinecast.com/feed/ihan-pihalla",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ihan sama?",
+        "feedUrl": "https://feeds.simplecast.com/oLDSyo7y",
+        "iTunesUrl": ""
     },
     {
         "title": "Ihanat Ipanat",
-        "feedUrl": "http://rss.acast.com/ihanatipanat",
+        "feedUrl": "https://rss.acast.com/ihanatipanat",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/ihanat-ipanat/id1229843961?mt=2"
     },
     {
         "title": "Ihmisiä, siis eläimiä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:358481639/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:358481639/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Iitti-podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:411167364/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:411167364/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Ikkunastudio",
@@ -465,39 +915,114 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/ikkunastudio/id973085893?l=fi&mt=2"
     },
     {
-        "title": "Impulssi-podcast",
+        "title": "Ilman muuta",
+        "feedUrl": "https://anchor.fm/s/242e6570/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ilmastopodi",
+        "feedUrl": "https://anchor.fm/s/13ea5d40/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/ilmastopodi/id1500594860"
+    },
+    {
+        "title": "Ilmastoterapia",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO4244547996",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/ilmastoterapia/id1495971837"
+    },
+    {
+        "title": "Impulssi",
         "feedUrl": "https://impulssilvm.fi/category/podcastit/feed/",
         "iTunesUrl": "https://subscribeonandroid.com/impulssilvm.fi/category/podcastit/feed/"
     },
     {
+        "title": "inderesPodi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:319162419/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/inderespodi/id1383172198?mt=2"
+    },
+    {
+        "title": "Inhimillistä itsetuntemusta -podcast",
+        "feedUrl": "http://www.eeviminkkinen.fi/blogi?format=rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/inhimillist%C3%A4-itsetuntemusta-podcast/id1300495969?mt=2"
+    },
+    {
         "title": "InspiRadio Podcast",
-        "feedUrl": "http://inspiradio.libsyn.com/rss",
+        "feedUrl": "https://inspiradio.libsyn.com/rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/inspiradio-podcast/id960799115?l=fi&mt=2"
+    },
+    {
+        "title": "Inspiroivat Naiset",
+        "feedUrl": "https://anchor.fm/s/503dcb38/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Intiaanit tullee!",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4172970.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
-        "title": "Iris & Melissa: Jatkoilla",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:287091984/sounds.rss",
+        "title": "Intohimona oppiminen!",
+        "feedUrl": "https://cms.podcastit.me/podcast/intohimona-oppiminen/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Intohimona teknologia",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:714668773/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "io-techin Tekniikkapodcast",
+        "feedUrl": "https://audioboom.com/channels/4984540.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/io-techin-tekniikkapodcast/id1448596862"
+    },
+    {
+        "title": "Iris &amp; Melissa: Jatkoilla",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:287091984/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/iris-melissa-jatkoilla/id1215904993?mt=2"
     },
     {
+        "title": "Iskävartalo",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:600516738/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/isk%C3%A4vartalo/id1456725048?l=fi&mt=2"
+    },
+    {
         "title": "Iso Kolmonen",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:306095969/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:306095969/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/iso-kolmonen/id1257505147?mt=2"
     },
     {
-        "title": "IT-työn tulevaisuus",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:333583067/sounds.rss",
-        "iTunesUrl": null
+        "title": "Isälokero",
+        "feedUrl": "https://rss.podplaystudio.com/820.xml",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/id1458605971"
     },
     {
-        "title": "Jari & Otto Show",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:533609829/sounds.rss",
-        "iTunesUrl": null
+        "title": "IT-työn tulevaisuus",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:333583067/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Itsensä yläpuolella",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:721689928/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ituhihhulit ilman hörhöilyä",
+        "feedUrl": "https://anchor.fm/s/1b36ac5c/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Jaa, ei, tyhjiä, poissa",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50082686.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/jaa-ei-tyhji%C3%A4-poissa/id1455621921"
+    },
+    {
+        "title": "Jahtaa unelmiasi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:306318097/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/jahtaa-unelmiasi/id1262356149?mt=2&uo=4"
+    },
+    {
+        "title": "Jari &amp; Otto Show",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:533609829/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Jari Sarasvuo",
@@ -505,94 +1030,199 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/jari-sarasvuo/id593431292?mt=2"
     },
     {
-        "title": "Jose Ahonen - Pään Sisällä podcast",
-        "feedUrl": "http://joseahonen.podbean.com/feed/",
-        "iTunesUrl": null
+        "title": "Jaricast",
+        "feedUrl": "https://feeds.buzzsprout.com/708861.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/sininen-tulevaisuus-jari-turpeinen/id1487378523"
+    },
+    {
+        "title": "Joka sadas",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO5310062910",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "JOKU TIETÄÄ JOTAIN",
+        "feedUrl": "https://feed.podbean.com/jokutietaajotain/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "joovai?",
+        "feedUrl": "https://feeds.buzzsprout.com/1216097.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/joovai/id1523726843"
+    },
+    {
+        "title": "Jpodden",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO8231889828",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Julia Thurén: Melkein kaikki rahasta",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4580170.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/julia-thur%C3%A9n-melkein-kaikki-rahasta/id1440117072?l=fi&mt=2"
     },
     {
         "title": "Jumikemut",
         "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:290487865/sounds.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Junasta jääneet",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:912847831/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Jussi Venäläinen Podcast",
+        "feedUrl": "https://feeds.transistor.fm/jussi-venalainen-podcast",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/jussi-ven%C3%A4l%C3%A4inen-podcast/id1372428251"
     },
     {
         "title": "Just sopivasti",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:190069834/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:190069834/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "JuttaxKaisa",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:265404295/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:265404295/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Juttukulma",
+        "feedUrl": "https://media.rss.com/juttukulmapodcast/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Jyri Komulainen",
+        "feedUrl": "https://www.spreaker.com/show/3561960/episodes/feed",
+        "iTunesUrl": ""
     },
     {
         "title": "Jäljillä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:425252139/sounds.rss",
-        "iTunesUrl": null
-    },
-    {
-        "title": "Jäljillä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:425252139/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://rss.acast.com/jaljilla",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/j%C3%A4ljill%C3%A4/id1370962224?l=fi&mt=2"
     },
     {
         "title": "Jälkipyykkipäivä Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:131457154/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:131457154/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/jalkipyykkipaiva-podcast/id960694411?l=fi&mt=2"
     },
     {
         "title": "Järkytä avoimuudella",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:251625717/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:251625717/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Kaarlen podcastit",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:4624400/sounds.rss",
+        "title": "Kaarlen Keskusteluohjelma",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:4624400/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/kaarlen-podcastit/id990602615?l=fi&mt=2"
     },
     {
         "title": "Kadonnut",
         "feedUrl": "http://feeds.yle.fi/areena/v1/series/1-3269144.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kahdenkympin Kriisi",
+        "feedUrl": "https://feeds.buzzsprout.com/577012.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kahdenkympin-kriisi/id1479235772?l=fi"
+    },
+    {
+        "title": "Kahvihetkiä Vallilan paahtimolla",
+        "feedUrl": "https://rss.acast.com/vallilanpaahtimo",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kahvilla",
+        "feedUrl": "https://anchor.fm/s/ea89acc/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/kahvilla/id1489096923"
+    },
+    {
+        "title": "Kahvit näppikselle",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO3688786990",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kahvitauko: Puhetta nuorisoalasta ja sen ilmiöistä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:532992885/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Kaikille teille",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:204199081/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:204199081/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/kaikille-teille/id1082227723?l=fi&mt=2"
     },
     {
+        "title": "Kaikkien koulu?",
+        "feedUrl": "https://feeds.soundcloud.com/playlists/soundcloud:playlists:856123004/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kaisa R ja näkökulmia uudistumiseen -Podcast",
+        "feedUrl": "https://feeds.buzzsprout.com/263810.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "KAISTAVAHTI BY SIR TOIVONEN",
-        "feedUrl": "http://rss.acast.com/kaistavaihti",
+        "feedUrl": "https://rss.acast.com/kaistavaihti",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/kaistavahti-by-sir-toivonen/id1237314255?mt=2"
+    },
+    {
+        "title": "Kaksin katsottu",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:657108600/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kakskytkakskyt: Keskustelua USA:n vaaleista",
+        "feedUrl": "https://anchor.fm/s/9a3baac/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kalankääreiksi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:587438703/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast//id1453028230"
     },
     {
         "title": "Kalle Haatanen",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-1853467.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
-    },
-    {
-        "title": "Kamppailukatsaus",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:17989979/sounds.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Kamraatit Podcast",
-        "feedUrl": "http://kamraatit.libsyn.com/rss",
+        "feedUrl": "https://kamraatit.libsyn.com/rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/kamraatit-podcast/id919953060?l=fi&mt=2"
     },
     {
-        "title": "Kara Kuumana - Johtamisen jyväsiä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:300193001/sounds.rss",
-        "iTunesUrl": null
+        "title": "Kansan Filmiradio",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:649903404/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Kasper & Mikko - Suomen suosituin podcast",
-        "feedUrl": "http://rss.acast.com/suomensuosituinpodcast",
+        "title": "Kantturasalonki",
+        "feedUrl": "https://audioboom.com/channels/4993846.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/kantturasalonki/id1463108556?uo=4"
+    },
+    {
+        "title": "Kara Kuumana - Johtamisen jyväsiä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:300193001/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kareem Khaled",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:744392920/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kasarin Lapset -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:97164719/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kasper &amp; Mikko - Suomen suosituin podcast",
+        "feedUrl": "https://rss.acast.com/suomensuosituinpodcast",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/kasper-mikko-suomen-suosituin-podcast/id1276305505?mt=2"
     },
     {
         "title": "Kasvatusviisautta kiireisille",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4362015.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Kasvumatka",
@@ -600,34 +1230,104 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/kasvumatka/id1406311500?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D515"
     },
     {
-        "title": "Kekkonen Pelastaa Maailman - Juuso Kekkonen",
-        "feedUrl": "http://feeds.podtrac.com/2y16PEOwKxvb",
-        "iTunesUrl": null
+        "title": "Kaverin puolesta kyselen",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4415642.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/kaverin-puolesta-kyselen/id1374233661?mt=2"
+    },
+    {
+        "title": "Kavioliitossa",
+        "feedUrl": "https://rss.podplaystudio.com/883.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Keinonahkatakki",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:142511953/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kekkonen Pelastaa Maailman",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:152814620/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kellopelipodkästi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:736173328/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/aikarauta-podcast/id1492874385?l=fi&fbclid=IwAR2OcbFC9xMCQFCGWPa1TEbWe2BTOc2M6cIENxyhHhF3tT-ph_XFzjX0NpM"
     },
     {
         "title": "Kenen vuoro?",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:502908660/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:502908660/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Kevytyrittäjyys podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:303560318/sounds.rss",
-        "iTunesUrl": null
+        "title": "Kertojan ääni",
+        "feedUrl": "https://kertojanaani.fi/feed/podcast/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Keskeltä &amp; kovaa",
+        "feedUrl": "https://anchor.fm/s/e951010/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Keskeneräiset äidit ",
+        "feedUrl": "https://rss.podplaystudio.com/901.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/keskener%C3%A4iset-%C3%A4idit/id1458358445?uo=4"
+    },
+    {
+        "title": "keski-iässä podcast",
+        "feedUrl": "https://anchor.fm/s/3f562b58/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kestävyyspaneeli",
+        "feedUrl": "https://cms.podcastit.me/podcast/luke/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/luonnonvarakeskuksen-podcast/id1375428857?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D479"
+    },
+    {
+        "title": "Kestävyysurheilu.fi: Latu Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:657703746/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kiekkokiuas",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:699534122/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Kielikorva",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:501304179/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:501304179/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "KinoSilmä",
-        "feedUrl": "http://feeds.feedburner.com/kinos",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/kinosilma/id214633203?l=fi&mt=2"
+        "title": "Kiertäjä podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:464665167/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kiintiökoomikot",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO7062780982",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kiksit",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:701758811/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kiksit/id1482259101"
+    },
+    {
+        "title": "Kimanttia",
+        "feedUrl": "https://rss.podplaystudio.com/814.xml",
+        "iTunesUrl": "https://podcasts.apple.com/gb/podcast/kimanttia/id1458605929"
+    },
+    {
+        "title": "RSS",
+        "feedUrl": "https://itunes.apple.com/fi/podcast/kinosilma/id214633203?l=fi&mt=2",
+        "iTunesUrl": "/selitys#tilausohje"
     },
     {
         "title": "Kirjahetki",
         "feedUrl": "https://anchor.fm/s/6aceeb8/podcast/rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Kirjakerho",
@@ -637,72 +1337,282 @@
     {
         "title": "Kirjanmerkki",
         "feedUrl": "https://rss.simplecast.com/podcasts/8209/rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Kirjapinon takaa -podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:340278973/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:340278973/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kirjapodi",
+        "feedUrl": "https://feed.podbean.com/kirjapodi/feed.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kirjapodi/id1465451250"
+    },
+    {
+        "title": "Kirjaveivi - Helmet-kirjaston podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:411740259/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/siin%C3%A4-sivussa-kirjastopodcast/id1369964748?l=fi&mt=2"
+    },
+    {
+        "title": "Kirjeitä tulevaisuudesta",
+        "feedUrl": "https://www.radiohelsinki.fi/feed/?post_type=rh_podcast&rh_program_id=189525",
+        "iTunesUrl": ""
     },
     {
         "title": "Kirjoittamisesta",
-        "feedUrl": "http://jakso.fi/podcastit/kirjoittamisesta/feed",
+        "feedUrl": "https://jakso.fi/podcastit/kirjoittamisesta/feed",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/id1210163350?mt=2&at=1000lwWI"
     },
     {
+        "title": "Kirkon ihmeellisimmät tarinat",
+        "feedUrl": "https://feeds.transistor.fm/kirkontarinat",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kirkon-ihmeellisimm%C3%A4t-tarinat/id1480360480"
+    },
+    {
+        "title": "Kirsin Book Club",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:600187389/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kirsin-book-club/id1455873971"
+    },
+    {
+        "title": "Kohtaussarja Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:94863340/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kohti ihmiskeskeistä yhteiskuntaa",
+        "feedUrl": "https://rss.simplecast.com/podcasts/9349/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Kolme miestä ja elokuvasauva",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:1420751/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:1420751/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Komediaradio-podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:327520824/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:327520824/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Kontrolleri Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:147161844/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:147161844/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/vptvcast/id983967691?l=fi&mt=2"
     },
     {
+        "title": "Koodarikuiskaajan podcast",
+        "feedUrl": "https://feeds.simplecast.com/OAO4saTk",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/koodarikuiskaajan-podcast/id1469855702?fbclid=IwAR0-0cBL9h5AFO0Qk_jrfGmKuueroY8d7Q-zXgWwv2jPffYUF3lcfzVNnf4"
+    },
+    {
+        "title": "Kotona podcast",
+        "feedUrl": "https://anchor.fm/s/b04350c/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kovaksi keitetyt 2 - Ravintolaunelmia",
+        "feedUrl": "https://www.spreaker.com/show/3287955/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Krapulatarinoita",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:713166133/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kriisin anatomia",
+        "feedUrl": "https://www.spreaker.com/show/4250036/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kriisin-anatomia/id1501494351?l=fi"
+    },
+    {
+        "title": "Kritiikin sokeat pisteet",
+        "feedUrl": "https://feeds.megaphone.fm/kritiikinsokeatpisteet",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "KSYK Teatteri-podi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:695938545/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Kuin Ananas ja Kookos",
-        "feedUrl": "http://kuinananasjakookos.libsyn.com/rss",
-        "iTunesUrl": null
+        "feedUrl": "https://kuinananasjakookos.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kulju x Saarinen",
+        "feedUrl": "https://rss.podplaystudio.com/914.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuntalehti podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:751489573/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kuntalehti-podcast/id1495168465?l=fi"
+    },
+    {
+        "title": "Kuparisen Kulma",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:17989979/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kupla",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50780980.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuplassa",
+        "feedUrl": "https://feeds.buzzsprout.com/1099421.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuraläppä – asiaa maastopyöräilystä",
+        "feedUrl": "https://anchor.fm/s/3ca9c70c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kural%C3%A4pp%C3%A4-asiaa-maastopy%C3%B6r%C3%A4ilyst%C3%A4/id1537192784?l=fi"
+    },
+    {
+        "title": "Kurkkupurkki Podcast",
+        "feedUrl": "https://kurkkupurkki.podbean.com/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuskin paikalla",
+        "feedUrl": "https://www.spreaker.com/show/4621049/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kuskin-paikalla/id1535840105"
+    },
+    {
+        "title": "Kuuhullut",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:606086667/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuuleeko koulu!",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50592925.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
     },
     {
         "title": "Kuulitsä",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:51214887/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:51214887/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/kuulitsa/id1152279299?mt=2"
     },
     {
+        "title": "Kuulun Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:393271911/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuusi kuvaa",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-2370148.rss?lang=fi",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kuva ois kiva",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO7567856100",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Kyberykset",
-        "feedUrl": "http://kyberykset.libsyn.com/rss",
-        "iTunesUrl": null
+        "feedUrl": "https://kyberykset.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kybän Platta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:618628602/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Kymppikerho",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:431068578/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:431068578/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Kysy mitä vaan",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4147146.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Käärmeiden yö",
+        "feedUrl": "https://anchor.fm/s/52f0d258/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/k%C3%A4%C3%A4rmeiden-y%C3%B6/id1560964729?l=fi"
+    },
+    {
+        "title": "Laatua hoitoon",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:344013153/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/laatua-hoitoon/id1462276149"
+    },
+    {
+        "title": "Laatupuhetta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:542625753/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/cy/podcast/laatupuhetta/id1444322393"
+    },
+    {
+        "title": "Lahtinen Malila Kunnas Experience",
+        "feedUrl": "https://feeds.simplecast.com/sv5HOTxQ",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Laituri 9 ja 3/4",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e94098aff5dc5646adde02f",
+        "iTunesUrl": ""
     },
     {
         "title": "Lapin Kansan podcastit",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:183727954/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:183727954/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Lautakunta",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:201911010/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:201911010/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Lautapelihetki",
         "feedUrl": "https://anchor.fm/s/2c1ef88/podcast/rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Lauttasaaressa",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:24249655/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/lauttasaaressa/id1387145471?mt=2"
+    },
+    {
+        "title": "Leadcast",
+        "feedUrl": "https://anchor.fm/s/b3ae1ec/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/leadcast-inspiroivia-uratarinoita/id1463596892"
+    },
+    {
+        "title": "Leffaperunat's podcast",
+        "feedUrl": "https://leffaperunat.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "LEFFATUTKA - Analyyttiset Amatöörit -podcast",
+        "feedUrl": "https://media.rss.com/leffatutka/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Leikkauspöytä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:467370150/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Lepopäivä",
-        "feedUrl": "http://feeds.podtrac.com/_e3P-1OrTiz9",
+        "feedUrl": "https://feeds.podtrac.com/_e3P-1OrTiz9",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/lepopaiva/id722853626?mt=2"
+    },
+    {
+        "title": "Let's Talk About Digital Identity",
+        "feedUrl": "https://www.ubisecure.com/feed/podcast/",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/lets-talk-about-digital-identity/id1470049409?mt=2&ls=1"
+    },
+    {
+        "title": "Liian lihava hipsteriksi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:751912546/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Liisa Lapin ihmemaassa",
+        "feedUrl": "http://www.liisalapinihmemaassa.fi/feed/podcast/",
+        "iTunesUrl": ""
     },
     {
         "title": "Lily Talks",
@@ -710,24 +1620,44 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/lily-talks/id1380196578"
     },
     {
-        "title": "Lindgren & Sihvonen",
+        "title": "Lindgren &amp; Sihvonen",
         "feedUrl": "http://feeds.yle.fi/areena/v1/series/1-2320317.rss?lang=fi",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/lindgren-sihvonen/id993141079?mt=2&uo=4&at=10l4Yx&app=itunes"
     },
     {
+        "title": "Lipastolla",
+        "feedUrl": "https://anchor.fm/s/d56bbe0/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "LogisTilan Kiinteistöcast",
+        "feedUrl": "https://anchor.fm/s/549aebfc/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/logistilan-kiinteist%C3%B6cast/id1560930121?l=fi"
+    },
+    {
+        "title": "Lohikäärmeradio",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:776412379/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Lokipodi | Veneilyaiheinen podcast.",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:684136940/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Loose Ends Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:342504760/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:342504760/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Loukomiehen koulu",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:180127377/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:180127377/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/loukomiehen-koulu-osa-1-tuomo/id1101710083?i=366453880&l=fi&mt=2"
     },
     {
         "title": "Lukuvika",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:334747442/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:334747442/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Luontovalokuvan jäljillä",
@@ -735,84 +1665,194 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/luontovalokuvan-jaljilla/id1035621086?l=fi&mt=2"
     },
     {
+        "title": "Luontoäänien maailma",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:735290461/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Luovia: Podcast taiteesta, yrittäjyydestä ja luovuudesta",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:312513782/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:312513782/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Luterilainen.net",
+        "feedUrl": "http://www.luterilainen.net/feed/podcast",
+        "iTunesUrl": ""
     },
     {
         "title": "Lähdesuoja",
-        "feedUrl": "http://jakso.fi/podcastit/lahdesuoja/feed",
+        "feedUrl": "https://jakso.fi/podcastit/lahdesuoja/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/lahdesuoja/id1048467421?mt=2&ls=1&at=1000lwWI"
     },
     {
         "title": "Länsirannikon Salibandyfoorumi",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:309595133/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:309595133/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Maa & taivas",
+        "title": "Maa &amp; taivas",
         "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:419965962/sounds.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Maailma puusta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:939913177/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/maailma-puusta/id1551627816?itsct=podcast_box&itscg=30200"
+    },
+    {
+        "title": "Maailman toimivin podcast",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO5887826094",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/maailman-toimivin-podcast/id1478496502?ign-mpt=uo%3D4&mt=2&ls=1"
+    },
+    {
+        "title": "Maailmanpolitiikan arkipäivää",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-1509042.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Maailmanpuu",
+        "feedUrl": "https://maailmanpuu.fi/feed/podcast/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Maanantaimysteeri",
+        "feedUrl": "https://audioboom.com/channels/5008824.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Magnus och Peppes podcast",
-        "feedUrl": "http://rss.acast.com/magnusochpeppe",
+        "feedUrl": "https://rss.acast.com/magnusochpeppe",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/magnus-och-peppes-podcast/id723772584?mt=2"
     },
     {
+        "title": "Mangakartta",
+        "feedUrl": "https://www.mangakartta.net/jaksot?format=RSS",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mangakartta/id1463563577"
+    },
+    {
+        "title": "Marjapommi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:850427119/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Markkinointi Mimmit",
+        "feedUrl": "https://anchor.fm/s/1db16b48/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Markkinointimania",
-        "feedUrl": "http://feeds.feedburner.com/markkinointimania",
+        "feedUrl": "https://feeds.feedburner.com/markkinointimania",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/markkinointimania/id908928644?l=fi&mt=2"
     },
     {
         "title": "MarkkinointiRadio",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:446979957/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:446979957/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Marraslahden radio",
         "feedUrl": "http://aavetaajuus.fi/blog/kategoria/marraslahden-radio/feed/podcast/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Marski Talks",
+        "feedUrl": "https://cms.podcastit.me/podcast/marski-talks/feed/",
+        "iTunesUrl": ""
     },
     {
         "title": "Matkalla Trumpin Amerikkaan",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:267383885/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:267383885/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/matkalla-trumpin-amerikkaan/id1174872428?l=fi&mt=2"
     },
     {
+        "title": "MDI-podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:543033105/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Mellan raderna - en podcast om läsning",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:175684260/sounds.rss",
+        "feedUrl": "https://rss.acast.com/mellanraderna",
         "iTunesUrl": "https://itunes.apple.com/se/podcast/mellan-raderna-en-podcast-om-l%C3%A4sning/id1046991624?mt=2"
     },
     {
         "title": "Menestyksen Määritelmä Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:342917134/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:342917134/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/menestyksen-m%C3%A4%C3%A4ritelm%C3%A4-podcast/id1332461764?mt=2"
     },
     {
+        "title": "Meni Fiilis",
+        "feedUrl": "https://anchor.fm/s/6777ddc/podcast/rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/meni-fiilis/id1435103859?mt=2&uo=4"
+    },
+    {
         "title": "Menkää ja Tehkää",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:87152068/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:87152068/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/menkaa-ja-tehkaa/id1052603599?l=fi&mt=2"
     },
     {
-        "title": "Metti & Hanna",
+        "title": "#Merirosvoradio",
+        "feedUrl": "https://merirosvoradio.podomatic.com/rss2.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Merkityksellisiä keskusteluja -podcast",
+        "feedUrl": "https://feeds.feedburner.com/home/QDfM",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/merkityksellisi%C3%A4-keskusteluja-podcast/id1451927077?l=fi&mt=2"
+    },
+    {
+        "title": "Metacast - kaikkea ei mistään",
+        "feedUrl": "https://feeds.acast.com/public/shows/5f707ee88875455119354191",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "MetroPodia",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:256473651/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Metsä",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO3552753912",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mets%C3%A4/id1480591757"
+    },
+    {
+        "title": "Metti &amp; Hanna",
         "feedUrl": "https://rss.acast.com/mettijahanna",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/metti-hanna/id1350223022?mt=2"
     },
     {
+        "title": "@mhonkasalo NBA Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:37300831/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/mhonkasalo-nba-podcast/id1063033193?l=fi&mt=2"
+    },
+    {
         "title": "Miekkailu-podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:403556376/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:403556376/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/miekkailu-podcast/id1351288993?mt=2"
+    },
+    {
+        "title": "Mielen laboratorio",
+        "feedUrl": "https://anchor.fm/s/1d34c778/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Mielen matkalla",
         "feedUrl": "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=mielen-matkalla",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
-        "title": "MIKA EIRTOVAARA PODCAST",
-        "feedUrl": "http://mikaepodcast.podbean.com/feed",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/mika-eirtovaara-podcast/id978172830?l=fi&mt=2"
+        "title": "Mielentila -podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:819825052/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Mieletöntä, Anja Snellman!",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO3224859715",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mielet%C3%B6nt%C3%A4-anja-snellman/id1482672090?l=fi"
+    },
+    {
+        "title": "Mielivieraat",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:657733419/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mielivieraat/id1478888740?l=fi"
     },
     {
         "title": "Mikä maksaa?",
@@ -821,8 +1861,18 @@
     },
     {
         "title": "Mikä meitä vaivaa?",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:324727948/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:324727948/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Mimmit sijoittaa",
+        "feedUrl": "https://rss.acast.com/mimmitsijoittaa",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mimmit-sijoittaa/id1464668326?uo=4"
+    },
+    {
+        "title": "Minska podcast",
+        "feedUrl": "https://minska.fi/minska-podcast",
+        "iTunesUrl": ""
     },
     {
         "title": "Minun Itämereni",
@@ -830,8 +1880,8 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/minun-it%C3%A4mereni/id1393513546?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D411"
     },
     {
-        "title": "Minä & minä",
-        "feedUrl": "http://jakso.fi/podcastit/mina-ja-mina/feed",
+        "title": "Minä &amp; minä",
+        "feedUrl": "https://jakso.fi/podcastit/mina-ja-mina/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/mina-mina/id1184329272?mt=2&ls=1&at=1000lwWI"
     },
     {
@@ -840,24 +1890,114 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/mist%C3%A4-maailma-puhuu/id1280524439?l=fi&mt=2"
     },
     {
+        "title": "Mitä Pelataan?",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:415393926/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/mit%C3%A4-pelataan/id1390280287"
+    },
+    {
+        "title": "Mitä sä mietit?",
+        "feedUrl": "https://feeds.buzzsprout.com/1744242.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Mitä Vittua Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:514347132/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mit%C3%A4-vittua-podcast/id1443624175"
+    },
+    {
+        "title": "#MitäVattua podcast",
+        "feedUrl": "https://www.kooders.fi/podcast.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/id1321483748"
+    },
+    {
+        "title": "Moderni Klassikko -podcast",
+        "feedUrl": "https://anchor.fm/s/1acd9f00/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/moderni-klassikko-podcast/id1506516502?l=fi"
+    },
+    {
+        "title": "Moodi on Urheilu",
+        "feedUrl": "https://anchor.fm/s/6a566fc/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Moottoriturvat",
         "feedUrl": "http://moottoriturvat.fi/rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Motivaatiomies",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:182550811/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:182550811/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Muistisairaana maailmassa",
+        "feedUrl": "https://anchor.fm/s/3ddac270/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/muistisairaana-maailmassa/id1541790253?|=fi"
+    },
+    {
+        "title": "Murha joka tapahtui",
+        "feedUrl": "https://feed.podbean.com/murhajokatapahtui/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Murha mielessä",
+        "feedUrl": "https://rss.podplaystudio.com/902.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Murhakertomuksia",
+        "feedUrl": "https://anchor.fm/s/562a7730/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Murhan anatomia",
+        "feedUrl": "https://feeds.acast.com/public/shows/5ec91a92b471e42f38ca9bbc",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Murhapäiväkirjat",
+        "feedUrl": "http://www.spreaker.com/show/3520510/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/murhap%C3%A4iv%C3%A4kirjat/id1462892693?uo=4"
     },
     {
         "title": "Musikaalimatkassa",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:312331366/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:312331366/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/au/podcast/musikaalimatkassa/id1275630297"
     },
     {
-        "title": "Muturadio",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:338712257/sounds.rss",
-        "iTunesUrl": null
+        "title": "Mutsi Puhuu",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:575863539/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Muu maa mustikka",
+        "feedUrl": "https://anchor.fm/s/49edd548/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/muu-maa-mustikka/id1552153966"
+    },
+    {
+        "title": "Muutoksen polku Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:613812111/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Muutoksen tekijät",
+        "feedUrl": "https://cms.podcastit.me/podcast/muutoksen-tekijat/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Muutosrakentaja",
+        "feedUrl": "https://lehto.libsyn.com/rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/muutosrakentaja/id1449964296"
+    },
+    {
+        "title": "Muutostarinat",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:585187197/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Mylly",
+        "feedUrl": "https://feeds.simplecast.com/cMG6wtyh",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/mylly/id1529281555"
     },
     {
         "title": "MyTech",
@@ -866,33 +2006,88 @@
     },
     {
         "title": "MyyntiKoneisto Podcast by Jan Ropponen",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:308588046/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:308588046/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Mätäkuu Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:212710564/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:212710564/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Nainen ratissa -podcast",
+        "feedUrl": "https://feed.podbean.com/nainenratissapodcast/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Naisasiamiehet",
+        "feedUrl": "https://feeds.transistor.fm/naisasiamiehet-43448a45-24a8-42f4-b5eb-236c9a8bd513",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/naisasiamiehet/id1482687180"
+    },
+    {
+        "title": "Naisasiatoimisto Kaartamo &amp; Tapanainen",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50028946.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Nakkisalaatti",
+        "feedUrl": "https://anchor.fm/s/7f50f80/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Napit Edellä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:608740089/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Nappulakengät",
+        "feedUrl": "https://anchor.fm/s/10d65e4c/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "NBA-tuokio",
-        "feedUrl": "http://jakso.fi/podcastit/nba-tuokio/feed",
+        "feedUrl": "https://jakso.fi/podcastit/nba-tuokio/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/nba-tuokio/id1296649091?l=fi&mt=2"
     },
     {
         "title": "Nelinpeli",
-        "feedUrl": "http://feeds.feedburner.com/NelinpeliPodcast",
+        "feedUrl": "https://feeds.feedburner.com/NelinpeliPodcast",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/nelinpeli/id508810768?l=fi&mt=2"
     },
     {
         "title": "Nerdic Podcast",
-        "feedUrl": "http://feeds.podiant.co/nerdicpodcast/rss.xml",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.podiant.co/nerdicpodcast/rss.xml",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/nerdic-podcast/id1335736577?mt=2"
+    },
+    {
+        "title": "#neuvottelija",
+        "feedUrl": "https://anchor.fm/s/12cf31d8/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/neuvottelija/id1497033284"
     },
     {
         "title": "NFL Jenarihait",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:199540640/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:199540640/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/nfl-jenarihait/id1075605802?mt=2"
+    },
+    {
+        "title": "NHL podcast - Kaukosenlaidalla",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:447125166/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/kaukosenlaidalla-podcast/id1470873835?l=fi"
+    },
+    {
+        "title": "NHL-löylyt",
+        "feedUrl": "https://nhlloylyt.podbean.com/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Nikotellen",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:588017829/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "No filter",
+        "feedUrl": "https://rss.acast.com/nofilter",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/no-filter/id1391048496?mt=2"
     },
     {
         "title": "Noin viikon radio",
@@ -900,24 +2095,74 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/noin-viikon-radio/id1110243568?l=fi&mt=2"
     },
     {
+        "title": "NoitaElämää",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:713002834/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Nonsense by Alexa &amp; Linda",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:438773298/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/nonsense-by-alexa-linda/id1376603634?l=fi&mt=2"
+    },
+    {
         "title": "Nordea Markets Insights FI",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:213460014/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:213460014/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "NordicBet - Vedonlyönnin koti",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e334f21849afafe4fd04c2d",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/nordicbet-vedonly%C3%B6nnin-koti/id1517377689"
+    },
+    {
+        "title": "Normaalivinouma",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:606173994/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Note to Self",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:649487451/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/note-to-self/id1467718394"
+    },
+    {
+        "title": "Nudging Pixels",
+        "feedUrl": "https://anchor.fm/s/87b8308/podcast/rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/nudging-pixels/id1449180059?mt=2&ign-mpt=uo%3D2"
     },
     {
         "title": "Nuoren Voiman Lavarunoradio",
-        "feedUrl": "http://jakso.fi/podcastit/lavarunoradio/feed",
+        "feedUrl": "https://jakso.fi/podcastit/lavarunoradio/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/nuoren-voiman-lavarunoradio/id1299537212?l=fi&mt=2&at=1000lwWI&ls=1#episodeGuid=http%3A%2F%2Fjakso.fi%2F%3Fp%3D1156"
     },
     {
-        "title": "Näin tutkimukseni on muuttanut maailmaa",
-        "feedUrl": "https://cms.podcastit.me/podcast/luke/feed/",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/luonnonvarakeskuksen-podcast/id1375428857?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D479"
+        "title": "Näkemysräppi",
+        "feedUrl": "https://feeds.simplecast.com/e9EmsrjQ",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Näkökulmia Mesokosmoksesta",
+        "feedUrl": "https://anchor.fm/s/7e85100/podcast/rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/n%C3%A4k%C3%B6kulmia-mesokosmoksesta/id1447819392?mt=2&uo=4"
     },
     {
         "title": "Näkövammaisten liitto",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:281939335/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:281939335/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "O-Studio, Suunnistus ",
+        "feedUrl": "https://anchor.fm/s/1e4a2874/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/o-studio-suunnistus/id1510425737?uo=4"
+    },
+    {
+        "title": "Ohjaamocast",
+        "feedUrl": "https://ohjaamo.hel.fi/feed/podcast",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Oikeus ja kohtuus",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:780319729/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Oispa viinii!",
@@ -925,44 +2170,129 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/oispa-viinii/id1433578907?l=fi&mt=2"
     },
     {
+        "title": "Oivalluksia-podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:765421309/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Olet Riittävä-podcast",
+        "feedUrl": "https://www.geneesi.fi/podcast.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/olet-riitt%C3%A4v%C3%A4-podcast/id1458136497"
+    },
+    {
+        "title": "Olohuone by Janne &amp; Valtteri",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:688697201/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "OLSC FINLAND -Podcast",
+        "feedUrl": "https://anchor.fm/s/3616daec/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/olsc-finland-podcast/id1531760894?l=fi"
+    },
+    {
+        "title": "OlympiaCast",
+        "feedUrl": "https://olympiacast.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Oma huone",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:392324175/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:392324175/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Oma ääni",
+        "feedUrl": "https://tuomasahva.net/aanipodcast/feed/podcast/",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/oma-%C3%A4%C3%A4ni/id1505209942"
     },
     {
         "title": "Omaa luokkaa",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:313022821/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:313022821/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/omaa-luokkaa/id1248289667?mt=2"
     },
     {
-        "title": "OP Sijoittajakoulu",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:224130755/sounds.rss",
+        "title": "Omat duunit podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:303560318/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "One Quart Magazine",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:260527545/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "OP Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:224130755/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/op-sijoittajakoulu/id1111791807?mt=2"
     },
     {
-        "title": "OP Sijoittajakoulu",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:224130755/sounds.rss",
-        "iTunesUrl": null
+        "title": "Opiskelemaan",
+        "feedUrl": "https://feeds.buzzsprout.com/1695832.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/opiskelemaan/id1553810395"
+    },
+    {
+        "title": "Oppimatkalla",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:464663967/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/oppimatkalla/id1400315367?mt=2"
+    },
+    {
+        "title": "Orion's Podcast (YleX, Absence of Facts)",
+        "feedUrl": "https://feeds.feedburner.com/Orionpodcast",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/dj-orions-podcast/id129522914?mt=2"
+    },
+    {
+        "title": "OSA: Tarinoita ihmisarvosta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:592466610/sounds.rss?token=57b0d7-1-1556104988546",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Osana",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:262356821/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ostan Asuntoja Podcast",
+        "feedUrl": "https://ostanasuntoja.libsyn.com/rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ostan-asuntoja-podcast/id1396556877?mt=2"
+    },
+    {
+        "title": "Otetaan yhdet!",
+        "feedUrl": "https://audioboom.com/channels/5023805.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/otetaan-yhdet/id1509414012?uo=4"
     },
     {
         "title": "Outo laakso",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4574496.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Outo maa",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:329635079/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:329635079/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Paalupaikka - formulapodcastien ykkönen!",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:640506687/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Pakkotoisto Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:191049623/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:191049623/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Paleoradio",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:85044028/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:85044028/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/paleoradio/id1035230412?l=fi&mt=2"
+    },
+    {
+        "title": "Paljonks tost jää viivan alle?",
+        "feedUrl": "http://www.sagapro.fi/podcast?format=rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Palkintopuhetta",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO8170600238",
+        "iTunesUrl": ""
     },
     {
         "title": "Palkittu",
@@ -970,29 +2300,104 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/palkittu/id1361524513?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D507"
     },
     {
-        "title": "Paluu tulevaisuuteen",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:387144515/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/paluu-tulevaisuuteen/id1338838705"
+        "title": "Pallo &amp; Pullo Podcast",
+        "feedUrl": "https://www.spreaker.com/show/4270801/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pallo hallussa",
+        "feedUrl": "https://cms.podcastit.me/podcast/pallo-hallussa/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Palmujen Varjoissa",
+        "feedUrl": "https://audioboom.com/channels/5039800.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/palmujen-varjoissa/id1543381503?uo=4"
+    },
+    {
+        "title": "Palmun alla",
+        "feedUrl": "https://palmun-alla.squarespace.com/podcast?format=RSS",
+        "iTunesUrl": ""
     },
     {
         "title": "Paluu tulevaisuuteen",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:387144515/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:387144515/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/paluu-tulevaisuuteen/id1338838705?l=fi&mt=2"
     },
     {
+        "title": "Pamput",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:714253003/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "@PanuMusakka",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:223934269/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pappakahvit",
+        "feedUrl": "https://anchor.fm/s/1120eca0/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Papupata",
+        "feedUrl": "https://rss.acast.com/papupata",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/papupata/id1435213328?l=fi&mt=2"
+    },
+    {
+        "title": "Parempaa järjestövaikuttamista -podcast",
+        "feedUrl": "https://feeds.transistor.fm/parempaa-jarjestovaikuttamista-podcast",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/parempaa-j%C3%A4rjest%C3%B6vaikuttamista-podcast/id1498564352?l=fi"
+    },
+    {
         "title": "Parempi lounas",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:338814784/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:338814784/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/parempi-lounas/id1300111767?l=fi&mt=2"
     },
     {
         "title": "Parempi tarina",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:132988934/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:132988934/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/parempi-tarina/id966106617?l=fi&mt=2"
+    },
+    {
+        "title": "Pariskunta poikkeustilassa",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:801350365/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Parlatorio",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO9287286750",
+        "iTunesUrl": "https://itunes.apple.com/podcast/id1538398719"
+    },
+    {
+        "title": "PASILA-SYNDROOMA",
+        "feedUrl": "http://pasilasyndrooma.fi/feed/podcast/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/pasila-syndrooma/id1436090122?l=fi&mt=2"
+    },
+    {
+        "title": "Passion for Results",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e679f76adf575a35115f588",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/passion-for-results/id1502417696"
+    },
+    {
+        "title": "Patriisikellari",
+        "feedUrl": "https://anchor.fm/s/5324a588/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/patriisikellari/id1557954264?uo=4"
     },
     {
         "title": "PBC",
         "feedUrl": "http://pelaajaboardcast.fi/feed/podcast/",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/pbc/id931920547?mt=2&ls=1"
+    },
+    {
+        "title": "PedaCast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:664361190/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pehmee podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:549562119/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Pelaajacast",
@@ -1005,9 +2410,24 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/pelidialogi/id1081099386"
     },
     {
-        "title": "Perho & Pääskysaari",
+        "title": "Pelikirjaton Pessimisti",
+        "feedUrl": "https://anchor.fm/s/4d8a733c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/pelikirjaton-pessimisti/id1554475773?l=fi"
+    },
+    {
+        "title": "Pelimaailma",
+        "feedUrl": "https://trailblazers.gg/feed/podcast",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/pelimaailma/id1546617041"
+    },
+    {
+        "title": "Perho &amp; Pääskysaari",
         "feedUrl": "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=perho-ja-paaskysaari",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Perjantain parhaat",
+        "feedUrl": "https://rss.acast.com/perjantainparhaat",
+        "iTunesUrl": ""
     },
     {
         "title": "Perttu Häkkinen",
@@ -1015,9 +2435,24 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/perttu-hakkinen/id593439124?mt=2&uo=4&at=10l4Yx&app=itunes"
     },
     {
-        "title": "Petri Toikkanen",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:262356821/sounds.rss",
-        "iTunesUrl": null
+        "title": "Perunakello",
+        "feedUrl": "https://feed.pippa.io/public/shows/perunakello",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Perusasento",
+        "feedUrl": "https://anchor.fm/s/e2389f4/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/perusasento/id1481974568?uo=4"
+    },
+    {
+        "title": "Peten Pulinat",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:772524700/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/peten-pulinat/id1496927548"
+    },
+    {
+        "title": "Petopodi",
+        "feedUrl": "https://rss.podplaystudio.com/838.xml",
+        "iTunesUrl": ""
     },
     {
         "title": "Pettu",
@@ -1025,14 +2460,34 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/pettu/id1228603005?mt=2&ls=1"
     },
     {
-        "title": "Pihlajalinna-podcast",
+        "title": "Pieni ihminen suuressa mukana",
+        "feedUrl": "https://feeds.buzzsprout.com/1611562.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/pieni-ihminen-suuressa-mukana/id1548693586?l=fi"
+    },
+    {
+        "title": "Pieni karanteenikirjakerho",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:812947573/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/pieni-karanteenikirjakerho/id1509227162"
+    },
+    {
+        "title": "Pieninkin olento",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO2677085400",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pihlajalinna",
         "feedUrl": "http://cms.podcastit.me/podcast/pihlajalinna/feed/",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/pihlajalinna-podcast/id1324968465"
     },
     {
+        "title": "Piinan Kirous",
+        "feedUrl": "https://audioboom.com/channels/5039706.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/piinan-kirous/id1543100052"
+    },
+    {
         "title": "PikaPika Podcast",
         "feedUrl": "https://feedpress.me/PikaPikaPodcast",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Pikkurikollisia",
@@ -1040,49 +2495,99 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/pikkurikollisia/id1408735753?mt=2"
     },
     {
+        "title": "Pilipalisaatio - \"Kaikki mikä voi, pilipalisoituu\"",
+        "feedUrl": "https://audioboom.com/channels/4994914.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/pilipalisaatio/id1463323520?uo=4"
+    },
+    {
+        "title": "#Pilvessä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:915008890/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/pilvess%C3%A4/id1543204884"
+    },
+    {
         "title": "Pimeä laatikko",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:397683273/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:397683273/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Podcast and Notes – Explore Finland Radio Show",
-        "feedUrl": "http://feeds.feedburner.com/ExploreFinlandRadio",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/explore-finland-radio-show/id948019018"
+        "title": "Pingcast",
+        "feedUrl": "https://rss.acast.com/pingcast/",
+        "iTunesUrl": ""
     },
     {
-        "title": "Podcast – Henry Lehto",
-        "feedUrl": "http://feeds.feedburner.com/takaisinkirjoituspoydalle",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/henry-lehto-stand-up-komiikkablogi/id926112217?l=fi&mt=2"
+        "title": "Pintaa syvemmältä",
+        "feedUrl": "https://anchor.fm/s/12f9bcdc/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pirssipodi",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO3202988457",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pitääkö tästäkin puhua?",
+        "feedUrl": "https://www.spreaker.com/show/4357635/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Podcast metsästä",
+        "feedUrl": "https://anchor.fm/s/c308db8/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Podcast – Marko Kaartinen",
         "feedUrl": "https://markokaartinen.net/kategoria/podcast/feed",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
-        "title": "Podcast – Meinunate",
-        "feedUrl": "https://feeds.feedburner.com/Meinunate-Podcast?format=xml",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/meinunate-podcast/id1090539525"
+        "title": "Podden om Afrika",
+        "feedUrl": "https://poddenomafrika.podbean.com/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Podiatri",
+        "feedUrl": "https://www.spreaker.com/show/4253585/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/podiatri/id1501799336?l=fi"
     },
     {
         "title": "PodKaista",
-        "feedUrl": "http://feeds.feedburner.com/Podkaista",
+        "feedUrl": "https://feeds.feedburner.com/Podkaista",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/podkaista/id288291548?l=fi&mt=2"
     },
     {
-        "title": "poikkitaiteellista-eitanssia",
-        "feedUrl": "http://feeds.feedburner.com/Poikkitaiteellista-eitanssia",
-        "iTunesUrl": null
+        "title": "PODpuhetta",
+        "feedUrl": "https://jakso.fi/podcastit/podpuhetta/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "RSS",
+        "feedUrl": "",
+        "iTunesUrl": "/selitys#tilausohje"
+    },
+    {
+        "title": "POKS",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:640049244/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/poks/id1464889415?uo=4"
+    },
+    {
+        "title": "Poliittinen talous",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:379964909/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/poliittinen-talous/id1347252975?mt=2"
     },
     {
         "title": "Politbyroo",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:266044321/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:266044321/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Politiikkaradio",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-1485162.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Polkuporinat",
         "feedUrl": "https://feeds.podcastmirror.com/polkuporinat",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Pop-Filtteri Podcast",
@@ -1090,54 +2595,144 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/pop-filtteri-podcast/id1061999454?l=fi&mt=2"
     },
     {
-        "title": "Premium Value Bets Betcast",
-        "feedUrl": "http://valuebets.fi/feed/podcast",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/premium-value-bets-betcast/id988330004?mt=2"
+        "title": "#Porvoopodi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:406904712/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Post-äiti",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:679542590/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pottikästi",
+        "feedUrl": "https://rss.podplaystudio.com/908.xml",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/pottik%C3%A4sti/id1541835702"
     },
     {
         "title": "ps. tykitellään",
-        "feedUrl": "http://jakso.fi/podcastit/ps-tykitellaeaen/feed",
-        "iTunesUrl": null
+        "feedUrl": "https://jakso.fi/podcastit/ps-tykitellaeaen/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Psykopodiaa-podcast",
+        "feedUrl": "https://www.ninalyytinen.fi/psykopodiaa?format=rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/psykopodiaa-podcast/id1457501255"
     },
     {
         "title": "Psykoprat",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:247978564/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:247978564/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Puheenaihe",
+        "feedUrl": "https://anchor.fm/s/91bd59c/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Puhekupla",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:193985368/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:193985368/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/puhekupla/id1076242825?mt=2"
     },
     {
         "title": "Puhetta maailmasta -podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:436135389/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:436135389/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "PuhujainKulma",
-        "feedUrl": "http://feeds.feedburner.com/PuhujainKulma",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/puhujainkulma/id250286879?l=fi&mt=2"
+        "title": "Puhetta monimuotoisuudesta",
+        "feedUrl": "http://www.muutoslehti.fi/category/podcast/feed/",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/podcast-muutos/id1485361865?l=fi"
     },
     {
-        "title": "Pulloposti-podcast",
-        "feedUrl": "https://feeds.buzzsprout.com/184589.rss",
-        "iTunesUrl": null
+        "title": "Puhetta puutarhasta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:470951874/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Puhu Muru",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:600180984/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Puopolo - Toinen näkökulma",
+        "feedUrl": "https://anchor.fm/s/d4c6ff0/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Puttonen &amp; Vilkkumaa",
+        "feedUrl": "https://feeds.blubrry.com/feeds/puttonenandvilkkumaa.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/puttonen-vilkkumaa/id1489170473"
+    },
+    {
+        "title": "Puun takaa lätkäpodcast",
+        "feedUrl": "https://feed.podbean.com/puuntakaa/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "PYJAMABILEET",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:339814014/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/pyjamabileet/id1393852476?l=fi&mt=2"
+    },
+    {
+        "title": "Pysähdy!",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO9712752209",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pysähdy!",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO9712752209",
+        "iTunesUrl": ""
     },
     {
         "title": "Pyöreä pöytä",
         "feedUrl": "http://feeds.yle.fi/areena/v1/series/1-2587342.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Päivystävät dosentit",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4113529.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Päivän mietelause",
         "feedUrl": "http://feeds.yle.fi/areena/v1/series/1-2316565.rss?lang=fi&downloadable=true",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/paivan-mietelause/id993154043?l=fi&mt=2"
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/paivan-mietelause/id993154043"
+    },
+    {
+        "title": "Päivän teoria",
+        "feedUrl": "https://www.kutri.net/feed/podcast/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/p%C3%A4iv%C3%A4n-teoria/id1453329870"
+    },
+    {
+        "title": "Pääkallon podcastit",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:525810606/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Päätä oikein!",
+        "feedUrl": "https://feeds.buzzsprout.com/1716976.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Pörssipäivä",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-3725092.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Raamattu tänään",
+        "feedUrl": "https://anchor.fm/s/21442e30/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Radio Kipinä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:381455678/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/radio-kipina/id1096663745?l=fi&mt=2"
+    },
+    {
+        "title": "Radio Moreeni",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:43350342/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Radio Sodoma",
@@ -1145,29 +2740,99 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/radio-sodoma/id1243453820?mt=2"
     },
     {
+        "title": "Radio Tapiola",
+        "feedUrl": "https://www.radiotapiola.fi/podcast?format=rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/radio-tapiola/id1529527587?l=fi"
+    },
+    {
+        "title": "Radio Variaatio",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4311174.rss?lang=fi&downloadable=true",
+        "iTunesUrl": "https://podcasts.apple.com/hu/podcast/radio-variaatio/id1531695353"
+    },
+    {
         "title": "Radio Wyrd Podcast",
         "feedUrl": "http://radiowyrd.podomatic.com/rss2.xml",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "RADplus",
+        "feedUrl": "https://feeds.buzzsprout.com/719925.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Raflapodi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:625824804/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Rahamania",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:298345925/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/rahamania/id1434745647?mt=2"
+    },
+    {
+        "title": "#rahapodi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:156278369/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/rahapodi/id1039270351?l=fi&mt=2"
+    },
+    {
+        "title": "Rajanylityksiä",
+        "feedUrl": "https://koneensaatio.fi/arkisto/podcastit/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/uusi-naapuri/id1438098605?l=fi&mt=2"
+    },
+    {
+        "title": "Rajaton Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:582669999/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/rajaton-podcast/id1453183115?mt=2"
+    },
+    {
+        "title": "Rakenna, kärsi ja unhoita",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:778231516/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Rakkaudella, Lasse ja Konsta",
         "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:233248431/sounds.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Rakkauspodcast",
+        "feedUrl": "https://pinecast.com/feed/rakkauspodcast",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/rakkauspodcast/id1461451522"
+    },
+    {
+        "title": "#raksapodi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:803845306/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Ranskaa raakana!",
-        "feedUrl": "http://isosavi.podbean.com/feed/",
-        "iTunesUrl": null
+        "feedUrl": "https://isosavi.podbean.com/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ratin takana",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO4699495663",
+        "iTunesUrl": ""
     },
     {
         "title": "Raumam Boikien tarina",
-        "feedUrl": "http://raumamboikientarina.libsyn.com/rss",
+        "feedUrl": "https://raumamboikientarina.libsyn.com/rss",
         "iTunesUrl": "https://itunes.apple.com/en/podcast/raumam-boikien-tarina/id1113995158?mt=2"
     },
     {
         "title": "Reeta ja improihmiset",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:315362297/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:315362297/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Rehusta ratkaisuksi",
+        "feedUrl": "https://anchor.fm/s/1f90bdec/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Renne Korppila Podcast",
+        "feedUrl": "https://audioboom.com/channels/4985739.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Respawn.fi Podcast",
@@ -1175,73 +2840,198 @@
         "iTunesUrl": "https://itunes.apple.com/us/podcast/respawn-fi-podcast/id1409779175?mt=2"
     },
     {
+        "title": "Retkeily-podcastit",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:196860610/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Rikospaikkaradio",
         "feedUrl": "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=rikospaikkaradio",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Riku ja Tunna - Docventures",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-2372317.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Rock Around The Blog",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:66097481/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/rock-around-the-blog/id1462541002?l=fi"
+    },
+    {
+        "title": "RODEO-Podcast",
+        "feedUrl": "https://anchor.fm/s/e6d15b0/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Rohkaisuryyppy ",
+        "feedUrl": "https://anchor.fm/s/385e2dc8/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Rohkea Johtajuus podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:690380204/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Rookie",
-        "feedUrl": "http://jakso.fi/podcastit/rookie/feed",
-        "iTunesUrl": null
+        "feedUrl": "https://jakso.fi/podcastit/rookie/feed",
+        "iTunesUrl": ""
     },
     {
         "title": "Rotuopin kahdeksat kasvot",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4255663.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ruben Stiller",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4361886.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Runner's High Podcast",
+        "feedUrl": "https://feeds.blubrry.com/feeds/runhigh.xml",
+        "iTunesUrl": ""
     },
     {
         "title": "Ruohonjuuri Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:307968161/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:307968161/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Ruokola²",
-        "feedUrl": "http://ruokola2.libsyn.com/rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ruokola2/id1046787881?l=fi&mt=2"
+        "title": "Ruokaklinikka",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:679100726/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Ruutuääni",
-        "feedUrl": "http://feeds.feedburner.com/Ruutuaani",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ruutu%C3%A4%C3%A4ni/id1214621735?l=fi&mt=2"
+        "title": "Ruokakupla",
+        "feedUrl": "https://rss.acast.com/ruokakupla",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ruudunpalvojat",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:912809098/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ruuhkavuosirakkautta",
+        "feedUrl": "https://lifeatkinspiring.com/ruuhkavuosirakkautta-podcast?format=rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Rötöspojat",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:162706815/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://rss.acast.com/rotospojat",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Saappaat jalassa",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:610432578/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "SalesComm KasvuPodcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:152262441/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:152262441/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/salescomm-kasvupodcast/id995155479?l=fi&mt=2"
     },
     {
-        "title": "Se alkuperäinen WP podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:258269496/sounds.rss",
-        "iTunesUrl": null
+        "title": "SalkunRakentaja-podi",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:395934132/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/salkunrakentaja-podi/id1472969284"
+    },
+    {
+        "title": "RSS",
+        "feedUrl": "",
+        "iTunesUrl": "/selitys#tilausohje"
+    },
+    {
+        "title": "Satuillaan – yhteisiä satuhetkiä koko perheelle",
+        "feedUrl": "https://www.spreaker.com/show/3641522/episodes/feed",
+        "iTunesUrl": ""
     },
     {
         "title": "Second Act",
-        "feedUrl": "http://secondact.fi/podcast/",
-        "iTunesUrl": "http://itunes.apple.com/fi/podcast/second-act/id397672595"
+        "feedUrl": "https://secondact.fi/podcast/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/second-act/id397672595"
     },
     {
-        "title": "Siinä sivussa -kirjastopodcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:411740259/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/siin%C3%A4-sivussa-kirjastopodcast/id1369964748?l=fi&mt=2"
+        "title": "Seikkailemaan",
+        "feedUrl": "https://feeds.redcircle.com/a5473ccf-dfe3-454d-9fee-aa12ad014d43",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/seikkailemaan/id1533410205"
+    },
+    {
+        "title": "Seikkailun jokamiesluokka",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO6071502313",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Selvitysnaiset",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:287902139/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Selviytyjät − Tarinoita elämästä",
+        "feedUrl": "http://tools.planetradio.co.uk/core/podcasts/rss.php?name=selviytyjat-tarinoita-elamasta",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sexual Rights Q&amp;A",
+        "feedUrl": "https://cms.podcastit.me/podcast/sexual-rights-qa/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "SHIKAANI - Formula 1 podcast",
+        "feedUrl": "https://anchor.fm/s/3bf1244/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/shikaani/id1468802741?uo=4"
+    },
+    {
+        "title": "Shitty is the new black",
+        "feedUrl": "https://anchor.fm/s/c0abf34/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sielujen apteekki - Tampereen kirjastopodcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:664349934/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sillanrakentajat",
+        "feedUrl": "https://cms.podcastit.me/podcast/sillanrakentajat/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/sillanrakentajat/id1442554809"
+    },
+    {
+        "title": "Siltalan kirjakauppa",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:584616780/sounds.rss?token=b160d8-1-1556105058274",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Simpukka-yhdistys",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:630913425/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sinnu",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:639159291/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sisältömarkkinoinnin aakkoset",
+        "feedUrl": "https://varikyna.fi/feed/podcast/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sivis: Tunnista osaamisesi!",
+        "feedUrl": "https://anchor.fm/s/d9bf3cc/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/sivis-tunnista-osaamisesi/id1478138511?ign-mpt=uo%3D4"
     },
     {
         "title": "Sivistyssanabattle",
         "feedUrl": "http://tools.planetradio.co.uk/core/podcasts/rss.php?name=sivistyssanabattle",
-        "iTunesUrl": null
-    },
-    {
-        "title": "Sivumennen",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:205510132/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/sivumennen/id1084652670?l=fi&mt=2"
+        "iTunesUrl": ""
     },
     {
         "title": "Sivupolkuja",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:180092900/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:180092900/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/sivupolkuja/id1050622252?l=fi&mt=2"
     },
     {
@@ -1255,33 +3045,48 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/slush/id1387759712?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D606"
     },
     {
+        "title": "Smarkside.com",
+        "feedUrl": "https://anchor.fm/s/81d3d70/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Social Selling Mastery",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:86894983/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:86894983/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sohva",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:653554077/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Sohvaryhmä",
+        "feedUrl": "https://feeds.simplecast.com/8VpThqgR",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/sohvaryhm%C3%A4/id1479558261"
+    },
+    {
+        "title": "SOME-podcast",
+        "feedUrl": "https://feeds.transistor.fm/lvngroom-laura-johansson",
+        "iTunesUrl": ""
     },
     {
         "title": "SomeCast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:186710143/sounds.rss",
-        "iTunesUrl": null
-    },
-    {
-        "title": "Soraääniä - Epäsuoraa järkipuhetta",
-        "feedUrl": "https://soraaania.podbean.com/feed/",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:186710143/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Spam Filter",
         "feedUrl": "https://cms.podcastit.me/podcast/spam-filter/feed/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Sporttimeisterit",
         "feedUrl": "https://tools.planetradio.co.uk/core/podcasts/rss.php?name=sporttimeisterit",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "StartTalk",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:186768483/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:186768483/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/starttalk/id1090725111?mt=2"
     },
     {
@@ -1296,18 +3101,48 @@
     },
     {
         "title": "Studio Street - Vieraissa",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:253313854/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:253313854/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Stunned Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:216918197/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://anchor.fm/s/9e7aadc/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Suhde klinikalla",
+        "feedUrl": "https://www.spreaker.com/show/4107109/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Suhteellista Podcast",
+        "feedUrl": "https://anchor.fm/s/385f6f44/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/suhteellista-podcast/id1533697093"
+    },
+    {
+        "title": "Suhtnormaali",
+        "feedUrl": "https://feeds.acast.com/public/shows/5faa5b8251ff4d48fb6461ff",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/suhtnormaali/id1537356716?uo=4"
+    },
+    {
+        "title": "Sujuva Suomi",
+        "feedUrl": "http://cms.podcastit.me/podcast/suomifi/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/suomi-fi/id1280512901?mt=2"
+    },
+    {
+        "title": "Sulamispiste by Jolle Harkimo",
+        "feedUrl": "https://rss.acast.com/sulamispiste",
+        "iTunesUrl": ""
     },
     {
         "title": "Sulopuisto-Onninen-Arnkil",
-        "feedUrl": "http://jakso.fi/podcastit/soacast/feed",
+        "feedUrl": "https://jakso.fi/podcastit/soacast/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/sulopuisto-onninen-arnkil/id1043949453?mt=2&ls=1&at=1000lwWI"
+    },
+    {
+        "title": "Sunnuntain Hallittu Kaaos",
+        "feedUrl": "https://anchor.fm/s/1b992fe4/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Suomen Kuvalehti",
@@ -1315,19 +3150,34 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/suomen-kuvalehti/id1164414248?mt=2"
     },
     {
-        "title": "Suomi mainittu! Ulkoministeriön podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:383667494/sounds.rss",
-        "iTunesUrl": "https://itunes.apple.com/us/podcast/suomi-mainittu-ulkoministeri%C3%B6n-podcast/id1336971015?mt=2"
+        "title": "Suomi 2049",
+        "feedUrl": "https://www.spreaker.com/show/3689395/episodes/feed",
+        "iTunesUrl": ""
     },
     {
-        "title": "Suomi.fi",
-        "feedUrl": "http://cms.podcastit.me/podcast/suomifi/feed/",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/suomi-fi/id1280512901?mt=2"
+        "title": "Suomi liikkeessä",
+        "feedUrl": "https://cms.podcastit.me/podcast/suomi-liikkeessa/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Suomi mainittu! Ulkoministeriön podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:383667494/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/suomi-mainittu-ulkoministeri%C3%B6n-podcast/id1336971015?mt=2"
     },
     {
         "title": "Suomidigi",
         "feedUrl": "https://cms.podcastit.me/podcast/suomidigi/feed/",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/suomidigi/id1378977523?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D349"
+    },
+    {
+        "title": "SuomiUFC.com - Kuitunen &amp; Poikela Fightcast",
+        "feedUrl": "http://www.suomiufc.com/index.php?option=com_podcastmanager&format=raw&feedname=1",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/suomiufc.com-kuitunen-poikela/id1075155719?mt=2"
+    },
+    {
+        "title": "Suorituskykyvalmentaja Podcast",
+        "feedUrl": "https://anchor.fm/s/d6d8dac/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Surfer Of Life",
@@ -1337,17 +3187,52 @@
     {
         "title": "Suuri hesalainen kirjakerho",
         "feedUrl": "http://www.radiohelsinki.fi/feed/?post_type=rh_podcast&rh_program_id=12123",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "SYÖ NUKU SÄÄSTÄ",
+        "feedUrl": "https://syonukusaasta.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Syöpä ja työ",
+        "feedUrl": "https://anchor.fm/s/dbd0314/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/sy%C3%B6p%C3%A4-ja-ty%C3%B6/id1510410752?l=fi"
+    },
+    {
+        "title": "Sähköautomiehet",
+        "feedUrl": "https://anchor.fm/s/406af3fc/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/s%C3%A4hk%C3%B6automiehet/id1541527660"
+    },
+    {
+        "title": "Taekwondourheilijat 2011 - Podcast",
+        "feedUrl": "https://www.tu11.fi/taekwondo/feed/tu11/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tahkokuvio",
+        "feedUrl": "https://feeds.buzzsprout.com/878914.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Taikaelämää",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:325914774/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/taikael%C3%A4m%C3%A4%C3%A4/id1279220659?l=fi&mt=2"
+    },
+    {
+        "title": "Takaisin Kirjoituspöydälle – Henry Lehto",
+        "feedUrl": "https://feeds.feedburner.com/takaisinkirjoituspoydalle",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/henry-lehto-stand-up-komiikkablogi/id926112217?l=fi&mt=2"
     },
     {
         "title": "Takakansi - podcast kirjoista ja lukemisesta",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:381159740/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:381159740/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Takapölkky Podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:280236295/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:280236295/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Taking a Turn",
@@ -1355,49 +3240,149 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/taking-a-turn/id1390561326?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D393"
     },
     {
+        "title": "Taloudellinen mielenrauha",
+        "feedUrl": "https://www.spreaker.com/show/3497534/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/taloudellinen-mielenrauha/id1463037492?l=fi"
+    },
+    {
         "title": "Talousgurut",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:456107877/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:456107877/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Taloustaito Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:435141624/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/taloustaito-podcast/1459104488"
     },
     {
         "title": "Tangentti",
         "feedUrl": "https://www.konsolifin.net/podcast/tangentti.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tanssistudio",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e3a7dd2caa214600727ff11",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/tanssistudio/id1498304068?l=fi"
     },
     {
         "title": "Tapani Aulu",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:42116772/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:42116772/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tapaus Felix Kersten",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50072935.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tappara - Kirvescast",
+        "feedUrl": "https://anchor.fm/s/3c84fe40/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Tarina",
-        "feedUrl": "http://jakso.fi/podcastit/tarina/feed",
+        "feedUrl": "https://jakso.fi/podcastit/tarina/feed",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/tarina/id1290784397?mt=2"
     },
     {
+        "title": "Tarinakellari",
+        "feedUrl": "https://feeds.buzzsprout.com/592993.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "TaskuLähetys",
+        "feedUrl": "http://taskulahetys.fi/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/taskul%C3%A4hetys/id1541888058?ls=1"
+    },
+    {
         "title": "Taskupuhelu",
-        "feedUrl": "http://feeds.feedburner.com/taskupuhelu",
+        "feedUrl": "https://feeds.feedburner.com/taskupuhelu",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/taskupuhelu/id917115216?l=fi&mt=2"
     },
     {
-        "title": "Terveys Edellä Radio by Sanna Mämmi",
-        "feedUrl": "http://rss.acast.com/terveysedella",
-        "iTunesUrl": "https://itunes.apple.com/us/podcast/terveys-edell%C3%A4-radio-by-sanna-m%C3%A4mmi/id1282617715?mt=2"
+        "title": "Ted &amp; Kaj",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-3071751.rss?lang=sv&downloadable=true",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ted-kaj/id1048900601?mt=2"
+    },
+    {
+        "title": "#Teerenpelit",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:348855806/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tekoäly Nyt 3",
+        "feedUrl": "https://www.spreaker.com/show/3459037/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Television lapset",
+        "feedUrl": "https://cms.podcastit.me/podcast/television-lapset/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Telia ONEcast",
+        "feedUrl": "https://rss.acast.com/teliaonecast/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Terve!",
+        "feedUrl": "https://anchor.fm/s/57058f78/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Terveisin Henriikka",
+        "feedUrl": "https://rss.acast.com/terveisin-henriikka",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/terveisin-henriikka/id1541105787?uo=4"
+    },
+    {
+        "title": "Terveysradio",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO7965147266",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "The Flick Lab",
+        "feedUrl": "https://theflicklab.libsyn.com/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/the-flick-lab/id1420278420?ls=1&mt=2"
     },
     {
         "title": "The Ulkopolitist",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:166395537/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:166395537/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "The YesFinland Podcast",
-        "feedUrl": "http://yesfinland.com/feed/podcast",
-        "iTunesUrl": null
+        "title": "RSS",
+        "feedUrl": "",
+        "iTunesUrl": "/selitys#tilausohje"
+    },
+    {
+        "title": "Tiedekulma podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:595648587/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tiedetrippi",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50438875.rss?lang=fi&",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/tiedetrippi/id1498580792?l=fi"
     },
     {
         "title": "Tiedeykkönen Extra",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4039204.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tiedotusosasto",
+        "feedUrl": "https://feeds.simplecast.com/_67vTM5f",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tietosuojamakasiini",
+        "feedUrl": "https://tietosuojamakasiini.libsyn.com/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/tietosuojamakasiini/id1476420208"
+    },
+    {
+        "title": "Timanttia timanttia",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO4263158102",
+        "iTunesUrl": ""
     },
     {
         "title": "Time to Shine Podcast : Public speaking | Communication skills | Storytelling",
@@ -1405,8 +3390,23 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/time-to-shine-podcast/id930870411"
     },
     {
+        "title": "Toimistotoimisto Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:17509393/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Toivo, innovaatiot ja kestävä kasvu",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:473982108/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Torjutut tunteet -meditaatiot",
+        "feedUrl": "https://feeds.simplecast.com/UxvbM5N1",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/torjutut-tunteet-meditaatiot/id1541518444"
+    },
+    {
         "title": "Tornitus podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:152420785/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:152420785/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/tornitus-podcast/id1121756458"
     },
     {
@@ -1416,38 +3416,108 @@
     },
     {
         "title": "Triangeli musiikkipodcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:475078536/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:475078536/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Tulevaisuuksien historia",
         "feedUrl": "http://feeds.yle.fi/areena/v1/series/1-4161921.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Tulevaisuus hanskassa",
         "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-4256464.rss?lang=fi&downloadable=true",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "TUNNEAGENTIT",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:492834420/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:492834420/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/tunneagentit/id1435758384?l=fi&mt=2"
     },
     {
+        "title": "Tunnelin tekijät",
+        "feedUrl": "https://www.spreaker.com/show/3283071/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tunnustan lukeneeni | Kirjallisuuspodcast",
+        "feedUrl": "https://bonnier-tammi-wp.herokuapp.com/feed/podcast/",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/tunnustan-lukeneeni-podcast/id1480362973"
+    },
+    {
+        "title": "Tunteella",
+        "feedUrl": "https://jakso.fi/podcastit/tunteella/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tuomiolla",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:134463572/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/episodi-tuomiolla/id978696292?l=fi&mt=2"
+    },
+    {
+        "title": "Tuottohöylä ",
+        "feedUrl": "https://anchor.fm/s/1303f79c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/1-tuottoh%C3%B6yl%C3%A4-podcast-real-time-sales/id1496581192?i=1000463772086&l=fi"
+    },
+    {
+        "title": "Tuplahyppy",
+        "feedUrl": "https://feeds.feedburner.com/Tuplahyppy",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/tuplahyppy/id1439193467"
+    },
+    {
         "title": "Tuplariimi",
-        "feedUrl": "http://jakso.fi/podcastit/tuplariimi/feed",
+        "feedUrl": "https://jakso.fi/podcastit/tuplariimi/feed",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/tuplariimi/id1167115274?mt=2&at=1000lwWI"
     },
     {
+        "title": "Tuplaruutu",
+        "feedUrl": "https://anchor.fm/s/3539dbec/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tuplashotti",
+        "feedUrl": "https://tuplashotti.libsyn.com/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/tuplashotti/id1462432750"
+    },
+    {
+        "title": "Turun yliopisto",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:334360556/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/aamukahvit-tutkijan-kanssa/id1299028784"
+    },
+    {
+        "title": "Turvakäräjät",
+        "feedUrl": "https://feeds.simplecast.com/fJGOlywC",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/turvak%C3%A4r%C3%A4j%C3%A4t/id1515073400"
+    },
+    {
+        "title": "Tutkapari",
+        "feedUrl": "https://rss.podplaystudio.com/809.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Tuuliajolla",
+        "feedUrl": "https://anchor.fm/s/13cce06c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/tuuliajolla/id1499138250"
+    },
+    {
         "title": "TV Tutuksi",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:148728971/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:148728971/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/tv-tutuksi/id990617865?l=fi&mt=2"
     },
     {
+        "title": "Tyhjäntoimittajat",
+        "feedUrl": "https://anchor.fm/s/c9531c8/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Tyyliniekan sisäpiiri",
-        "feedUrl": "http://rss.acast.com/tyyliniekka",
+        "feedUrl": "https://rss.acast.com/tyyliniekka",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/tyyliniekan-sis%C3%A4piiri/id1237313228?mt=2"
+    },
+    {
+        "title": "Tyynysota",
+        "feedUrl": "https://anchor.fm/s/15f8a948/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Tyyppimuunnos",
@@ -1456,68 +3526,143 @@
     },
     {
         "title": "Työelämän Soihdunkantajat",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:217447863/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:217447863/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Työmaana maailma",
-        "feedUrl": "https://cms.podcastit.me/podcast/tyomaana-maailma/feed/",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ty%C3%B6maana-maailma/id1397382020?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D441"
+        "title": "Työelämäpuntari",
+        "feedUrl": "https://feeds.acast.com/public/shows/5fc099d3461b1b45f66955f8",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/talouspuntari/id1530350955?itsct=podcast_box"
+    },
+    {
+        "title": "Työradio",
+        "feedUrl": "https://www.spreaker.com/show/3529609/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Työsuhdeterapiassa",
+        "feedUrl": "https://www.spreaker.com/show/3400645/episodes/feed",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "RSS",
+        "feedUrl": "https://podcasts.apple.com/fi/podcast/t%C3%A4htitaivas-nyt/id1447501587",
+        "iTunesUrl": "/selitys#tilausohje"
+    },
+    {
+        "title": "tällä podcastillä ei ole nimeä",
+        "feedUrl": "https://anchor.fm/s/13040ac0/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Täry",
+        "feedUrl": "https://cms.podcastit.me/podcast/tary/feed/",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Täysin siemauksin",
+        "feedUrl": "https://anchor.fm/s/29030664/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Täytepuheradio",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:204045806/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:204045806/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/taytepuheradio/id1081539883?mt=2"
     },
     {
         "title": "Uljas",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:337692296/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:337692296/sounds.rss",
+        "iTunesUrl": ""
     },
     {
-        "title": "Unelmaduunarit",
-        "feedUrl": "http://rss.acast.com/unelmaduunarit",
-        "iTunesUrl": "https://itunes.apple.com/us/podcast/unelmaduunarit/id1280891997?mt=2"
+        "title": "Ulkoruokinnassa",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:459454854/sounds.rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/ulkoruokinnassa/id1486329405?l=fi"
+    },
+    {
+        "title": "Unelma5",
+        "feedUrl": "https://anchor.fm/s/16dd7e88/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Unelmia onkimassa",
+        "feedUrl": "https://anchor.fm/s/40debc9c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/unelmia-onkimassa/id1522638493"
+    },
+    {
+        "title": "Unelmien Teatteri - UTFR!",
+        "feedUrl": "https://feed.podbean.com/unelmienteatteri/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Unibet - Pelaajilta, pelaajille",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:257706085/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/unibet-pelaajilta-pelaajille/id1266582209?mt=2"
     },
     {
         "title": "UNIRESEPTI / Johannes Kajava",
         "feedUrl": "https://www.uniresepti.fi/feed/podcast",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "UNO podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:293341337/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:293341337/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Urheilucast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:514889814/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:514889814/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Urheilun Opit",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:461592681/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Urheilun ääni",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:204894308/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:204894308/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/urheilun-aani/id1083346767"
     },
     {
-        "title": "Uusi naapuri",
-        "feedUrl": "https://koneensaatio.fi/arkisto/podcastit/feed/",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/uusi-naapuri/id1438098605?l=fi&mt=2"
+        "title": "Uskonnon pitkä oppimäärä",
+        "feedUrl": "https://anchor.fm/s/c39f13c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/uskonnon-pitk%C3%A4-oppim%C3%A4%C3%A4r%C3%A4/id1469845362?l=fi"
+    },
+    {
+        "title": "Utelias mieli",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO1970586426",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Uusi kaava",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO7955454985",
+        "iTunesUrl": ""
     },
     {
         "title": "Uusimaa urheilutoimituksen podcastit",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:416495532/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:416495532/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Uutisraportti podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:206661862/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:206661862/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Uutskuplan uutiset, valeuutiset ja mukauutiset",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:710203846/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "V***umainen Humanisti &amp; Insinööri",
+        "feedUrl": "https://anchor.fm/s/1f83e9f0/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Vahvaradio",
         "feedUrl": "https://pinecast.com/feed/vahvaradio",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Vaiheessa",
@@ -1525,14 +3670,34 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/vaiheessa/id1158179011?mt=2"
     },
     {
+        "title": "Vainio &amp; Rinnekangas",
+        "feedUrl": "https://anchor.fm/s/3dae0a0/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Valeäidin nauhoitukset",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:291883731/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://rss.acast.com/valeaidinnauhoitukset",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Valjuraati",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:603594996/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Valo minussa",
+        "feedUrl": "https://valominussa.libsyn.com/rss",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/valominussas-podcast/id1440595318?mt=2"
     },
     {
         "title": "Valoaalloilla",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:211804045/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:211804045/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/valoaalloilla/id1096179260?l=fi&mt=2"
+    },
+    {
+        "title": "Valokuvauspodcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:725873716/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Valopäät -podcast",
@@ -1540,9 +3705,24 @@
         "iTunesUrl": "https://itunes.apple.com/us/podcast/valop%C3%A4%C3%A4t-podcast/id1434408564?mt=2"
     },
     {
-        "title": "Valtuusto Podcast",
+        "title": "Valtuusto-podcast",
         "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:311730461/sounds.rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Vammaiskultti",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50299021.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Van Elämää",
+        "feedUrl": "https://rss.podplaystudio.com/856.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "#vapaaehtoinen100",
+        "feedUrl": "http://cms.podcastit.me/podcast/vapaaehtoinen100/feed/",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/vapaaehtoinen100/id1321970332?mt=2&ls=1#episodeGuid=http%3A%2F%2Fcms.podcastit.me%2F%3Fp%3D173"
     },
     {
         "title": "Vapautta ja vastuuta",
@@ -1550,13 +3730,48 @@
         "iTunesUrl": "https://itunes.apple.com/la/podcast/vapautta-ja-vastuuta/id1312804300?mt=2"
     },
     {
+        "title": "Varjojahti",
+        "feedUrl": "https://anchor.fm/s/2960c984/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Varjoton",
+        "feedUrl": "https://media.rss.com/varjotonpodcast/feed.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/varjoton/id1561510670?l=fi"
+    },
+    {
+        "title": "Vastapaino esittää",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:599981238/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "VastuullisuusPodcast",
+        "feedUrl": "https://feeds.acast.com/public/shows/5e8b7ba2372296d4689b9b15",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/vastuullisuuspodcast/id1508380226"
+    },
+    {
+        "title": "VelhoVerhoKerho",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:917863696/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Vepsän käsikirja liftareille",
-        "feedUrl": "http://liftari.libsyn.com/rss",
+        "feedUrl": "https://liftari.libsyn.com/rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/veps%C3%A4n-k%C3%A4sikirja-liftareille/id1229651048"
     },
     {
-        "title": "Veronkantaja",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:323739676/sounds.rss",
+        "title": "RSS",
+        "feedUrl": "",
+        "iTunesUrl": "/selitys#tilausohje"
+    },
+    {
+        "title": "Verkosta Vapauteen - podcast: Paikka- ja aikariippumattomia asiantuntijayrittäjähaastatteluita sinulle",
+        "feedUrl": "https://feeds.feedburner.com/verkostavapauteen",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Verohallinto",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:323739676/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/veronkantaja/id1317260444?mt=2"
     },
     {
@@ -1566,13 +3781,18 @@
     },
     {
         "title": "Vihreä särmiö",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:209668529/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:209668529/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "viihdettäsuomesta",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:573093834/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Viihteellinen aarreaitta",
         "feedUrl": "http://www.markkuyp.fi/podcast/feed.xml",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Vikasietotila",
@@ -1580,39 +3800,179 @@
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/vikasietotila/id1092984919?l=fi&mt=2"
     },
     {
-        "title": "Vikisijän podcast – Lopeta valittaminen ja aloita tekeminen",
-        "feedUrl": "https://rss.simplecast.com/podcasts/4063/rss",
-        "iTunesUrl": "https://itunes.apple.com/fi/podcast/vikisij%C3%A4n-podcast-lopeta-valittaminen-ja-aloita-tekeminen/id1330184047?l=fi&mt=2"
+        "title": "Viki ja Köpi Podcast",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50080410.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Villapaitaseura",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:565073109/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Virallinen podcast",
+        "feedUrl": "https://anchor.fm/s/8d41608/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "VOEMAmedia",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:223216017/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:223216017/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Väitöksen jälkeen ",
+        "feedUrl": "https://anchor.fm/s/52873a50/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Väkevä elämä - Viisaampi mieli, vahvempi keho",
+        "feedUrl": "https://feeds.simplecast.com/h8PPffDK",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Väkisinauttajat",
+        "feedUrl": "https://anchor.fm/s/11d52e54/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Väliaika",
+        "feedUrl": "https://anchor.fm/s/16c85d28/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Välitila",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:462456720/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Välitunteilua",
+        "feedUrl": "https://anchor.fm/s/4bfc2984/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/v%C3%A4litunteilua/id1554080899"
+    },
+    {
+        "title": "Välitunteilua",
+        "feedUrl": "https://anchor.fm/s/4bfc2984/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/v%C3%A4litunteilua/id1554080899"
+    },
+    {
+        "title": "Väsynyt Podcast",
+        "feedUrl": "https://media.rss.com/vasynyt/feed.xml",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "We Speak Gay – suoraa puhetta homoudesta",
+        "feedUrl": "https://www.spreaker.com/show/3591046/episodes/feed",
+        "iTunesUrl": ""
     },
     {
         "title": "Webbidevaus.fi",
         "feedUrl": "https://rss.simplecast.com/podcasts/4497/rss",
-        "iTunesUrl": null
+        "iTunesUrl": ""
     },
     {
         "title": "Where IT Meets Business",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:328113157/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:328113157/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Wikisijät",
+        "feedUrl": "https://anchor.fm/s/3e2d6afc/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Wilenius &amp; Hulkki Podcast",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:406397151/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/wilenius-hulkki-podcast/id1357642798?mt=2"
+    },
+    {
+        "title": "Witch 'N Bitch",
+        "feedUrl": "https://witchnbitch.libsyn.com/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "With Miska",
+        "feedUrl": "https://miska-kajanus.squarespace.com/withmiska?format=rss",
+        "iTunesUrl": "https://itunes.apple.com/us/podcast/with-miska/id1151301134?mt=2"
+    },
+    {
+        "title": "WTF Markkinointi by Dagmar",
+        "feedUrl": "https://rss.acast.com/wtfmarkkinointi",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Wärtsilä Radio",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:70638237/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Yhden yön juttuja",
+        "feedUrl": "https://feeds.yle.fi/areena/v1/series/1-50250426.rss?lang=fi&downloadable=true",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Yhdessä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:673776179/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Yhteyshenkilöt",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:300111080/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:300111080/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/us/podcast/yhteyshenkil%C3%B6t/id1244627267?mt=2"
     },
     {
-        "title": "Ymmärryspyrkimys",
-        "feedUrl": "http://www.oleellisuus.info/feed/podcast",
-        "iTunesUrl": null
+        "title": "Yks kysymys -leffapodcast",
+        "feedUrl": "https://anchor.fm/s/2e2c288c/podcast/rss",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/yks-kysymys-leffapodcast/id1519751934?l=fi"
+    },
+    {
+        "title": "Yksi Hyvinvointi",
+        "feedUrl": "https://rss.podplaystudio.com/894.xml",
+        "iTunesUrl": "https://podcasts.apple.com/fi/podcast/yksi-hyvinvointi/id1345886909"
+    },
+    {
+        "title": "Yleisurheilu Podcast",
+        "feedUrl": "https://www.spreaker.com/show/4853870/episodes/feed",
+        "iTunesUrl": "https://podcasts.apple.com/us/podcast/yleisurheilu-podcast/id1560949817?uo=4"
+    },
+    {
+        "title": "Ylös ja yritä!",
+        "feedUrl": "https://anchor.fm/s/d55c884/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Ympyrätalon kulmilla",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:166557/sounds.rss",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:166557/sounds.rss",
         "iTunesUrl": "https://itunes.apple.com/fi/podcast/ympyr%C3%A4talon-kulmilla/id1190974323?l=fi&mt=2"
+    },
+    {
+        "title": "Yripodi For Evripodi",
+        "feedUrl": "https://anchor.fm/s/ebb8e5c/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "#Yrittäjyys360",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:391128240/sounds.rss",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/yritt%C3%A4jyys360/id1343094941?mt=2&i=1000401204583"
+    },
+    {
+        "title": "Yrityksen menestyksen resepti",
+        "feedUrl": "https://feeds.megaphone.fm/JKSO6045909272",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Yritä oikein!",
+        "feedUrl": "https://anchor.fm/s/fd9b5d4/podcast/rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ysistä viiteen",
+        "feedUrl": "https://rss.acast.com/ysistaviiteen",
+        "iTunesUrl": "https://itunes.apple.com/fi/podcast/ysist%C3%A4-viiteen/id1393922086?l=fi&mt=2"
+    },
+    {
+        "title": "Yön Karnevaalit",
+        "feedUrl": "https://anchor.fm/s/4d0d7850/podcast/rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Zetapodi",
@@ -1620,13 +3980,38 @@
         "iTunesUrl": "https://itunes.apple.com/us/podcast/id1432647306"
     },
     {
+        "title": "Äijjäcast",
+        "feedUrl": "https://rss.acast.com/aijjacast",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Äititreffit",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:777748558/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "#Älyradio – Salesforce podcast",
+        "feedUrl": "https://alyradio.podbean.com/feed/",
+        "iTunesUrl": ""
+    },
+    {
         "title": "Älyvapaa Ajattelija",
         "feedUrl": "https://alyvapaa.fi/feed/podcast/",
-        "iTunesUrl": null
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Äänessä",
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:432013929/sounds.rss",
+        "iTunesUrl": ""
     },
     {
         "title": "Ääniä kirjastosta - Lahden kirjaston podcast",
-        "feedUrl": "http://feeds.soundcloud.com/users/soundcloud:users:367111919/sounds.rss",
-        "iTunesUrl": null
+        "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:367111919/sounds.rss",
+        "iTunesUrl": ""
+    },
+    {
+        "title": "Ögygermaset",
+        "feedUrl": "https://audioboom.com/channels/4986550.rss",
+        "iTunesUrl": ""
     }
 ]
